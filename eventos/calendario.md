@@ -5,6 +5,5 @@ Esta página contém a lista de eventos promovidos pelo Tchelinux em 2018. Verif
 
 ## Tchelinux 2018
 
- * [Lajeado](https://lajeado.tchelinux.org) (05/05)
  * [Rio Grande](https://riogrande.tchelinux.org/) (19/05)
  * [Porto Alegre](https://poa.tchelinux.org/) (à confirmar)
