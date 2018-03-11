@@ -25,7 +25,7 @@
 [Documentação]()
 
   * [Como contribuir com este Wiki](docs/contribuir.md)
-  * [Tchelinux HOWTO](docs/tchelinux_howto.md)
+  * [Tchelinux HOWTO](docs/howto/tchelinux_howto.md)
 
 [Calendário](eventos/calendario.md)
 
