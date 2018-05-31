@@ -3,16 +3,25 @@ Resultados do Grupo
 
 # Resultados até 10/12/2017
 
-**Eventos:** 80
+**Eventos:** 81
 **Cidades:** 20
 **Instituições:** 26
-**Palestras:** 1203
-**Participantes:** 9656
-**Quantidade de alimentos arrecadados:** 15761kg 
-**Instituições agraciadas:** 36
-
+**Palestras:** 1220 
+**Participantes:** 9812
+**Quantidade de alimentos arrecadados:** 15894kg 
+**Instituições agraciadas:** 37
 
 # Eventos realizados
+
+## 2018
+
+### Tchelinux 2018 Rio Grande
+Data:  19/04
+Local:  FURG
+Palestras:  17
+Publico:  156
+Quantidade de Alimentos Arrecadados:  133kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/D4lpm_PspIU/6ZfjuhQkAgAJ)
 
 ## 2017
 
