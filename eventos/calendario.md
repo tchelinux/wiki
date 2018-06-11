@@ -7,7 +7,8 @@ Esta página contém a lista de eventos promovidos pelo Tchelinux em 2018. Verif
 
  * [Rio Grande](https://riogrande.tchelinux.org/) (19/05)
  * [Santa Cruz do Sul](https://santacruz.tchelinux.org/) (09/06)
- * [Caxias do Sul](https://tchelinux.org/) (18/08)
+ * [Caxias do Sul](https://caxias.tchelinux.org/) (18/08)
  * [Pelotas](https://tchelinux.org/) (01/09)
  * [Bagé](https://tchelinux.org/) (29/09)
- * [Porto Alegre](https://tchelinux.org/) (24/11)
+ * [Santa Maria](https://tchelinux.org/) (10/11)
+ * [Porto Alegre](https://tchelinux.org/) (1/12)
