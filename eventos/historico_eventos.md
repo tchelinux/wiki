@@ -1,14 +1,14 @@
 Resultados do Grupo
 ===================
 
-# Resultados até 10/12/2017
+# Resultados até 10/06/2018
 
-**Eventos:** 81
+**Eventos:** 82
 **Cidades:** 20
 **Instituições:** 26
-**Palestras:** 1220 
-**Participantes:** 9812
-**Quantidade de alimentos arrecadados:** 15894kg 
+**Palestras:** 1244
+**Participantes:** 9914
+**Quantidade de alimentos arrecadados:** 15984kg 
 **Instituições agraciadas:** 37
 
 # Eventos realizados
@@ -22,6 +22,14 @@ Palestras:  17
 Publico:  156
 Quantidade de Alimentos Arrecadados:  133kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/D4lpm_PspIU/6ZfjuhQkAgAJ)
+
+### Tchelinux 2018 Santa Cruz do Sul
+Data:  09/06
+Local: UNISC
+Palestras:  24
+Publico: 102
+Quantidade de Alimentos Arrecadados:  90kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/a1b2sfwRAQU/J0BWksLkAQAJ)
 
 ## 2017
 
