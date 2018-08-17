@@ -19,7 +19,7 @@ Se um participante se engajar em comportamento de assédio, os representantes da
 
 Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar ou peça ajuda aos organizadores ou representantes do grupo, de modo a colocar a questão sob os cuidados da organização. Estamos certos de que essa política ajudará a fazer do Tchelinux um espaço mais acolhedor, inclusivo, e integrador para todos.
 
-Grupo de Usuários Tchelinux.
+Tchelinux, Grupo de Usuários de Software Livre do Rio Grande do Sul
 
 ### Sobre este documento
 
