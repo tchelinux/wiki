@@ -18,6 +18,7 @@
 [Midias Sociais]()
   
   * [Twitter](https://twitter.com/tchelinux)
+  * [Mastodon](https://mastodon.social/@tchelinux)
   * [Facebook](https://facebook.com/tchelinux)
   * [Google+](https://plus.google.com/115847583954023215950)
   * [Linkedin](https://www.linkedin.com/groups/771307)
