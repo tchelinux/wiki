@@ -31,6 +31,13 @@ Publico: 102
 Quantidade de Alimentos Arrecadados:  90kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/a1b2sfwRAQU/J0BWksLkAQAJ)
 
+### Tchelinux 2018 Caxias do Sul
+Data:  19/08
+Local: UCS
+Palestras: 23
+Quantidade de Alimentos Arrecadados:  120kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/0cpk0C4E8a0/WMzYQb6VDgAJ)
+
 ## 2017
 
 ### Tchelinux 2017  Lajeado
