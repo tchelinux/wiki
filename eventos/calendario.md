@@ -12,4 +12,5 @@ Esta página contém a lista de eventos promovidos pelo Tchelinux em 2018. Verif
  * [Bagé](https://bage.tchelinux.org/) (29/09)
  * [Santana do Livramento](https://livramento.tchelinux.org) (20/10)
  * [Santa Maria](https://santamaria.tchelinux.org/) (10/11)
+ * [Erechim](https://erechim.tchelinux.org/) (24/11)
  * [Porto Alegre](https://poa.tchelinux.org/) (1/12)
