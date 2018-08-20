@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 10/06/2018
 
-**Eventos:** 82
+**Eventos:** 83
 **Cidades:** 20
-**Instituições:** 26
-**Palestras:** 1244
-**Participantes:** 9914
-**Quantidade de alimentos arrecadados:** 15984kg 
-**Instituições agraciadas:** 37
+**Instituições:** 27
+**Palestras:** 1267
+**Participantes:** 10058
+**Quantidade de alimentos arrecadados:** 16128kg 
+**Instituições agraciadas:** 38
 
 # Eventos realizados
 
