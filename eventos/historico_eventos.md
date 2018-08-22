@@ -35,6 +35,7 @@ Quantidade de Alimentos Arrecadados:  90kg
 Data:  19/08
 Local: UCS
 Palestras: 23
+Publico: 144
 Quantidade de Alimentos Arrecadados:  144kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/0cpk0C4E8a0/WMzYQb6VDgAJ)
 
