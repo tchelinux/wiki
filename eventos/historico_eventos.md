@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 10/06/2018
 
-**Eventos:** 83
+**Eventos:** 84
 **Cidades:** 20
 **Instituições:** 27
-**Palestras:** 1267
-**Participantes:** 10058
-**Quantidade de alimentos arrecadados:** 16128kg 
-**Instituições agraciadas:** 38
+**Palestras:** 1291
+**Participantes:** 10268
+**Quantidade de alimentos arrecadados:** 16328kg 
+**Instituições agraciadas:** 40
 
 # Eventos realizados
 
@@ -38,6 +38,15 @@ Palestras: 23
 Publico: 144
 Quantidade de Alimentos Arrecadados:  144kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/0cpk0C4E8a0/WMzYQb6VDgAJ)
+
+### Tchelinux 2018 Pelotas
+Data:  01/09
+Local: UCPel
+Palestras: 24
+Público: 210
+Quantidade de Alimentos Arrecadados: 200kg
+[Relatório]()
+
 
 ## 2017
 
