@@ -8,7 +8,7 @@ Resultados do Grupo
 **Instituições:** 27
 **Palestras:** 1291
 **Participantes:** 10268
-**Quantidade de alimentos arrecadados:** 16328kg 
+**Quantidade de alimentos arrecadados:** 16295kg 
 **Instituições agraciadas:** 40
 
 # Eventos realizados
@@ -44,7 +44,7 @@ Data:  01/09
 Local: UCPel
 Palestras: 24
 Público: 210
-Quantidade de Alimentos Arrecadados: 200kg
+Quantidade de Alimentos Arrecadados: 167kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/nrADs9Dwb68/jin1oK4TBQAJ)
 
 
