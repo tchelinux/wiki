@@ -16,7 +16,8 @@
   * [Código de Conduta](conduta.md)
 
 [Midias Sociais]()
-  
+
+  * [YouTube](https://www.youtube.com/channel/UCs13WCSCDmQTNcPlt5XxKYw/)
   * [Twitter](https://twitter.com/tchelinux)
   * [Mastodon](https://mastodon.social/@tchelinux)
   * [Facebook](https://facebook.com/tchelinux)
