@@ -18,6 +18,7 @@ O Tchelinux conta com uma equipe de voluntários que auxiliam desde na manutenç
 
  | Rede Social                    | Responsáveis                                                                                       |
  |------------                    |-------------                                                                                       |
+ | YouTube                        | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Twitter                        | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Mastodon                       | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Facebook                       | [Rafael Jeffman](https://twitter.com/rafasgj),  [Jerônimo Madruga](https://twitter.com/jmmadruga)  | 

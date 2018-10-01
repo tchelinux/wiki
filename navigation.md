@@ -17,11 +17,11 @@
 
 [Midias Sociais]()
 
-  * [YouTube](https://www.youtube.com/channel/UCs13WCSCDmQTNcPlt5XxKYw/)
+  * [YouTube](https://www.youtube.com/c/tchelinux)
   * [Twitter](https://twitter.com/tchelinux)
   * [Mastodon](https://mastodon.social/@tchelinux)
   * [Facebook](https://facebook.com/tchelinux)
-  * [Google+](https://plus.google.com/115847583954023215950)
+  * [Google+](https://plus.google.com/+TchelinuxLUG)
   * [Linkedin](https://www.linkedin.com/groups/771307)
 
 [Documentação]()

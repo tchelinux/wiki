@@ -16,5 +16,5 @@ Os membros do Tchelinux promovem [eventos](eventos/calendario.md) em diversas ci
 
 ## Redes Sociais
 
-O Tchelinux está presente em várias redes sociais, portanto fique à vontade para se inscrever no canal do Tchelinux no [YouTube](https://www.youtube.com/channel/UCs13WCSCDmQTNcPlt5XxKYw/), de curtir a página do [Facebook](https://facebook.com/tchelinux), seguir o grupo no [Twitter](https://twitter.com/tchelinux) e no [Mastodon](https://mastodon.social/@tchelinux) para ficar sabendo sobre os próximos eventos e atividades do grupo, participar das comunidades no [Google+](https://plus.google.com/115847583954023215950) e no [Linkedin](https://www.linkedin.com/groups/771307)!
+O Tchelinux está presente em várias redes sociais, portanto fique à vontade para se inscrever no canal do Tchelinux no [YouTube](https://www.youtube.com/c/tchelinux), de curtir a página do [Facebook](https://facebook.com/tchelinux), seguir o grupo no [Twitter](https://twitter.com/tchelinux) e no [Mastodon](https://mastodon.social/@tchelinux) para ficar sabendo sobre os próximos eventos e atividades do grupo, participar das comunidades no [Google+](https://plus.google.com/+TchelinuxLUG) e no [Linkedin](https://www.linkedin.com/groups/771307)!
 
