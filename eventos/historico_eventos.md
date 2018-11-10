@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 10/06/2018
 
-**Eventos:** 85
+**Eventos:** 86
 **Cidades:** 20
 **Instituições:** 27
-**Palestras:** 1309
-**Participantes:** 10443
-**Quantidade de alimentos arrecadados:** 16377kg
-**Instituições agraciadas:** 40
+**Palestras:** 1327
+**Participantes:** 10578
+**Quantidade de alimentos arrecadados:** 16519kg
+**Instituições agraciadas:** 41
 
 # Eventos realizados
 
@@ -49,11 +49,20 @@ Quantidade de Alimentos Arrecadados: 167kg
 
 ### Tchelinux 2018 Bagé
 Data:  29/09
-Local:  UNIPAMPA
+Local: UNIPAMPA
 Palestras: 18
 Público: 175
 Quantidade de Alimentos Arrecadados: 82kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/l0YUjxSTGd4/uppRJYR9AwAJ)
+
+### Tchelinux 2018 Santa Maria
+Data:  10/11
+Local: UFN
+Palestra: 18
+Público: 135
+Quantidade de Alimentos Arrecadados: 142kg
+[Relatório]()
+
 
 ## 2017
 
