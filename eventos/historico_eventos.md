@@ -3,12 +3,12 @@ Resultados do Grupo
 
 # Resultados até 10/06/2018
 
-**Eventos:** 86
+**Eventos:** 87
 **Cidades:** 20
 **Instituições:** 27
-**Palestras:** 1327
-**Participantes:** 10583
-**Quantidade de alimentos arrecadados:** 16519kg
+**Palestras:** 1334
+**Participantes:** 10643
+**Quantidade de alimentos arrecadados:** 16569kg
 **Instituições agraciadas:** 41
 
 # Eventos realizados
@@ -62,6 +62,13 @@ Palestra: 18
 Público: 140
 Quantidade de Alimentos Arrecadados: 142kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/WywbTBBeZeo/8WTM0NP5BgAJ)
+
+### Tchelinux 2018 Erechim
+Data:  24/11
+Local: FAE
+Palestras: 7
+Público: 60
+Quantidade de Alimentos Arrecadados: 50kg
 
 
 ## 2017
