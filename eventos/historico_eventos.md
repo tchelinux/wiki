@@ -7,7 +7,7 @@ Resultados do Grupo
 **Cidades:** 20
 **Instituições:** 27
 **Palestras:** 1327
-**Participantes:** 10578
+**Participantes:** 10583
 **Quantidade de alimentos arrecadados:** 16519kg
 **Instituições agraciadas:** 41
 
@@ -59,7 +59,7 @@ Quantidade de Alimentos Arrecadados: 82kg
 Data:  10/11
 Local: UFN
 Palestra: 18
-Público: 135
+Público: 140
 Quantidade de Alimentos Arrecadados: 142kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/WywbTBBeZeo/8WTM0NP5BgAJ)
 
