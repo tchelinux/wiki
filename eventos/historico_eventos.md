@@ -7,8 +7,8 @@ Resultados do Grupo
 **Cidades:** 20
 **Instituições:** 27
 **Palestras:** 1334
-**Participantes:** 10643
-**Quantidade de alimentos arrecadados:** 16569kg
+**Participantes:** 10663
+**Quantidade de alimentos arrecadados:** 16549kg
 **Instituições agraciadas:** 41
 
 # Eventos realizados
