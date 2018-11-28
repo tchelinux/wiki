@@ -296,15 +296,15 @@ Quantidade de Alimentos Arrecadados:  40kg
 Data:  22/06
 Local:  IFSUL
 Palestras:  7
-Publico: 
-Quantidade de Alimentos Arrecadados: kg
+Publico: 40 
+Quantidade de Alimentos Arrecadados: 30 kg
 
 ### Tchelinux 2013  Novo Hamburgo
 Data:  10/08
 Local:  FTEC
 Palestras:  15
-Publico: 
-Quantidade de Alimentos Arrecadados: kg
+Publico: 30 
+Quantidade de Alimentos Arrecadados: 30 kg
 
 ### Tchelinux 2013  Caxias do Sul
 Data:  31/08
