@@ -3,12 +3,12 @@ Resultados do Grupo
 
 # Resultados até 10/06/2018
 
-**Eventos:** 87
+**Eventos:** 88
 **Cidades:** 20
 **Instituições:** 27
-**Palestras:** 1334
-**Participantes:** 10663
-**Quantidade de alimentos arrecadados:** 16549kg
+**Palestras:** 1363
+**Participantes:** 10772
+**Quantidade de alimentos arrecadados:** 16717kg
 **Instituições agraciadas:** 41
 
 # Eventos realizados
@@ -70,6 +70,13 @@ Palestras: 7
 Público: 60
 Quantidade de Alimentos Arrecadados: 50kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/_B5I3fNrHho/eIzyQBEUAwAJ)
+
+### Tchelinux 2018 Porto Alegre
+Data: 01/12
+Local: Faculdade SENAC
+Palestras: 29
+Público: 160
+Quantidade de Alimentos Arrecadados: 168kg
 
 ## 2017
 
