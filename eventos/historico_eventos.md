@@ -77,6 +77,7 @@ Local: Faculdade SENAC
 Palestras: 29
 Público: 160
 Quantidade de Alimentos Arrecadados: 168kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/MxrxnI751SY/9i9XqJbVAwAJ)
 
 ## 2017
 
