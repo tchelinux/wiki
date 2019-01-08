@@ -1,15 +1,23 @@
 Calendário de Atividades
 ========================
 
-Esta página contém a lista de eventos promovidos pelo Tchelinux em 2018. Verifique [esta página](historico_eventos.md) para eventos anteriores.
+Esta página contém a lista de datas disponíveis e eventos confirmados para o calendário do Tchelinux 2019. Para informações sobre eventos realizados anteriormente, visite [esta página](historico_eventos.md).
 
-## Tchelinux 2018
+## Tchelinux 2019
 
- * [Rio Grande](https://riogrande.tchelinux.org/) (19/05)
- * [Santa Cruz do Sul](https://santacruz.tchelinux.org/) (09/06)
- * [Caxias do Sul](https://caxias.tchelinux.org/) (18/08)
- * [Pelotas](https://pelotas.tchelinux.org/) (01/09)
- * [Bagé](https://bage.tchelinux.org/) (29/09)
- * [Santa Maria](https://santamaria.tchelinux.org/) (10/11)
- * [Erechim](https://erechim.tchelinux.org/) (24/11)
- * [Porto Alegre](https://poa.tchelinux.org/) (1/12)
+ * 09/03 
+ * 23/03  
+ * 13/04 - Santana do Livramento
+ * 27/04  
+ * 11/05  
+ * 25/05  
+ * 08/06 - Camaquã
+ * 22/06   
+ * 17/08  
+ * 31/08 - Erechim
+ * 14/09  
+ * 28/09  
+ * 05/10  
+ * 19/10  
+ * 09/11 - Santa Maria
+ * 30/11 - Porto Alegre
