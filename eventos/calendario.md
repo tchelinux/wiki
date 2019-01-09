@@ -14,12 +14,11 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
  * 08/06 - Camaquã
  * 22/06 - Disponível   
  * 17/08 - Disponível
- * 31/08 - Erechim
- * 14/09 - Disponível
+ * 31/08 - Pelotas 
+ * 14/09 - Erechim
  * 28/09 - Disponível 
  * 05/10 - Bagé 
  * 19/10 - Disponível
  * 09/11 - Santa Maria
  * 30/11 - Porto Alegre
-
 
