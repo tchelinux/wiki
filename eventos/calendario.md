@@ -5,19 +5,21 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
 
 ## Tchelinux 2019
 
- * 09/03 
- * 23/03  
+ * 09/03 - Disponível
+ * 23/03 - Disponível 
  * 13/04 - Santana do Livramento
- * 27/04  
- * 11/05  
- * 25/05  
+ * 27/04 - Disponível  
+ * 11/05 - Disponível
+ * 25/05 - Disponível
  * 08/06 - Camaquã
- * 22/06   
- * 17/08  
+ * 22/06 - Disponível   
+ * 17/08 - Disponível
  * 31/08 - Erechim
- * 14/09  
- * 28/09  
- * 05/10  
- * 19/10  
+ * 14/09 - Disponível
+ * 28/09 - Disponível 
+ * 05/10 - Bagé 
+ * 19/10 - Disponível
  * 09/11 - Santa Maria
  * 30/11 - Porto Alegre
+
+
