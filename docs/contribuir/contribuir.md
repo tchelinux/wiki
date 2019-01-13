@@ -20,10 +20,35 @@ Para contribuir com o Wiki é necessário clonar o repositório do Github, fazer
 
 ## Começando 
 
-### Clonando o repositório
+### Configure o Git
+
+Caso o Git não esteja configurado, execute os comandos abaixo substituindo o nome e endereço de email. 
 
 ```
-git clone https://github.com/TcheLinux/Wiki.git
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulano@dominio.com
+```
+
+### Crie um fork do repositório do Wiki
+
+A partir de sua conta no Github, acesse o [repositório do wiki do Tchelinux](https://github.com/TcheLinux/Wiki.git) e clique no botão "Fork", conforme a figura abaixo:
+
+![](images/fork_01.png "Criando um fork, parte 1")
+
+Após o processo ser concluido, o Fork irá aparecer como um novo repositório na interface do Github:
+
+![](images/fork_02.png "Criando um fork, parte 2")
+
+Clique em no botão "Clone or Download" (botão verde), para copiar o endereço do repositório do Fork:
+
+![](images/fork_03.png "Criando um fork, parte 3")
+
+### Clonando o repositório
+
+Use o endereço obtido no passo anterior para clonar o repositório:
+
+```
+git clone https://github.com/<username>/Wiki.git
 ```
 
 ### Criando um branch de trabalho
@@ -31,7 +56,7 @@ git clone https://github.com/TcheLinux/Wiki.git
 ```
 cd Wiki
 
-git branch -b nova_pagina
+git branch -b documento_novo
 ```
 
 ### Fazendo alterações
@@ -39,26 +64,23 @@ git branch -b nova_pagina
 ```
 cd docs
 
-vim nova_pagina.md
-
-cd .. 
-
-vim navigation.md
+vim documento_novo.md
 
 ```
 
 ### Gravando mudanças
 
 ```
-git add 
+git add documento_novo.md
 
-git commit -m "Nova pagina no wiki"
+git commit -m "Novo Documento para o Wiki do Tchelinux"
 ```
 
 ## Criando um pull request
 
 
 
-## Recursos
+
+## Recursos externos
 
 - [Livro Git Pro v2](https://git-scm.com/book/pt-br/v2)
