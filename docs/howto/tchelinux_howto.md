@@ -3,13 +3,15 @@ Tchelinux Eventos HOWTO
 
 ## Sobre este documento
 
-Este documento descreve os passos necessários para a realização de eventos do Tchelinux de pequeno e médio porte (até 4 apresentações em paralelo e 250 participantes) assim como lista de tarefas, cronogramas e demais requisitos.
+Este documento descreve os requisitos necessários para a realização de eventos do Tchelinux com uma única sala (trilha) para público até 250 participantes.
 
 ## Sobre o Tchelinux
 
-A paixão pelo Software Livre assim como o desejo de compartilhar conhecimentos fez com que um grupo de usuários se reunisse e trabalhasse junto na organização de eventos para a divulgação de ferramentas e da filosofia Open Source em instituições educacionais do Rio Grande do Sul. Aproveitando a ideia de voluntariado, o grupo decidiu que os eventos seriam sempre gratuitos, porém os participantes são encorajados a doar 2kg de alimentos não-perecíveis, que são doados a instituições de caridade da cidade onde ocorre o evento.
+A paixão pelo Software Livre assim como o desejo de compartilhar conhecimentos fez com que um grupo de usuários se reunisse e trabalhasse junto na organização de eventos para a divulgação de ferramentas e da filosofia Open Source em instituições educacionais do Rio Grande do Sul.
 
-Desde Outubro de 2006 o Tchelinux realizou mais de 80 eventos com o auxílio de centenas de voluntários, que ajudaram na organização e apresentaram palestras que foram assistidas por milhares de pessoas que doaram mais de 15 Toneladas de alimentos para instituições de caridade.
+Aproveitando a ideia de voluntariado, o grupo decidiu que os eventos seriam sempre gratuitos, porém os participantes são encorajados a doar 2kg de alimentos não-perecíveis, que são doados a instituições de caridade da cidade onde ocorre o evento.
+
+Desde Outubro de 2006 o Tchelinux realizou mais de 80 eventos com o auxílio de centenas de voluntários, que ajudaram na organização e apresentaram palestras que foram assistidas por mais de 10 mil pessoas que doaram mais de 16 toneladas de alimentos para instituições de caridade.
 
 ### Missão
 
@@ -21,7 +23,7 @@ Os membros do Tchelinux acreditam que através de suas iniciativas podem contrib
 
 ### Valores
 
-Os principais valores do Tchelinux são: meritocracia, transparência, ética e compromisso.
+Os principais valores do Tchelinux são: meritocracia, transparência, ética, respeito e compromisso.
 
 ## Planejando um evento
 
@@ -29,7 +31,7 @@ Os principais valores do Tchelinux são: meritocracia, transparência, ética e 
 
 A organização de eventos do Tchelinux requer que uma série de tarefas sejam realizadas muitas vezes em paralelo, e para haver uma boa divisão do trabalho e não ocorrer nenhum tipo de sobrecarga dos voluntários recomenda-se que um grupo de pelo menos 3 pessoas esteja coordenando as atividades.
 
-Além da equipe de organização recomenda-se que ao menos 2 pessoas sejam designadas pela instituição de ensino onde o evento irá ocorrer (Universidade, Faculdade, Curso Técnico etc) para servirem como ponto central de contato e auxiliar na alocação de recursos.
+Além da equipe de organização recomenda-se que ao menos 1 pessoa seja designada pela instituição onde o evento irá ocorrer (Universidade, Faculdade, Curso Técnico etc) para servir como ponto central de contato, assim como na alocação de recursos.
 
 ### Definindo o cronograma
 
@@ -37,13 +39,14 @@ Tendo como base o retrospecto de eventos realizados pelo Tchelinux recomenda-se 
 
 | Tarefa                                                          | Antedência recomendada  |
 | ------                                                          |------                   |
-| Planejamento do evento                                          | 70 à 90 dias            |
-| Anúncio do evento e começo da divulgação em redes sociais       | 60 dias                 |
-| Publicação do site do evento                                    | 60 dias                 |
-| Início da chamada de trabalhos                                  | 60 dias                 |
-| Encerramento da chamada de trabalhos                            | 35 dias                 |
-| Anúncio da programação do evento                                | 30 dias                 |
-| Abertura das inscrições                                         | 30 dias                 |
+| Planejamento do evento                                          | 90 dias                 |
+| Anúncio do evento em redes sociais                              | 70 dias                 |
+| Publicação do site do evento                                    | 70 dias                 |
+| Início da chamada de trabalhos                                  | 70 dias                 |
+| Encerramento da chamada de trabalhos                            | 45 dias                 |
+| Anúncio da programação do evento                                | 40 dias                 |
+| Abertura das inscrições                                         | 40 dias                 |
+| Divulgação do evento                                            | 40 dias                 |
 
 ## Escolhendo a Instituição
 
@@ -70,13 +73,12 @@ Como boa parte dos participantes dos eventos são estudantes é importante que e
 | Item                                             | Detalhes                                         |
 |-------                                           |---------                                         | 
 | Espaço para credenciamento | Ao chegar a uma instituição um dos primeiros locais acessados pelos participantes é o espaço para credenciamento onde é feita a identificação dos mesmos e também a entrega das doações. O espaço deve ser em um local de fácil acesso que permita a  colocação de mesas e a organização de filas. |
-| Auditório ou Sala para Abertura e Encerramento | Recomendamos que cerimônias de Abertura e Encerramento de eventos sejam realizadas em Auditórios ou Salas de aula com maior capacidade do que o espaço alocado para as demais palestras para que mais participantes possam ser alocados e não exista a necessidade de termos participantes em pé. Verifique se os Auditórios ou Salas com maior capacidade possuem um tamanho adequado para receber o público, se possuem um bom acesso e se contam com uma iluminação e se possuem sistema de ar condicionado ou ventiladores. |
-| Salas para Apresentações | Salas de aula com infraestrutura ruim também acabam prejudicando tanto os palestrantes quanto os participantes do evento. Verifique se as salas possuem um tamanho adequado para o público esperado, se contam com uma iluminação e se possuem sistema de ar condicionado ou ventiladores. |
+| Auditório ou Sala de Aula | Recomendamos que as apresentações sejam realizadas em um Auditório ou Sala de Aula com capacidade entre 70 a 250 lugares. É importante que o local seja de fácil acesso, bem iluminado, conte com um sistema de ventilação e tenha sinalização pra saída em caso de emergência. |
+| Projetor Multimídia | O Auditório ou Sala de Aula onde as apresentações serão realizadas necessita ter um projetor multimídia para que palestrantes possam utilizá-los durante o evento, e é importante verificar o tipo de saída disponíveis nos aparelhos (VGA, HDMI, Displayport etc) assim como as resoluções suportadas para que adaptadores possam ser providenciados. |
+| Acesso a Internet | É importante que a instituição sede do evento ofereça acesso a Internet para que palestrantes possam fazer suas demonstrações e para que participantes possam ter acesso ao site com informações sobre o evento (programação, detalhes sobre palestras etc). |
 | Espaço para Coffee-Break | Nas edições mais recentes dos eventos do Tchelinux o grupo tem organizado um intervalo para a realização de Coffee-Breaks durante a parte da tarde e para isso se faz necessário que um espaço seja alocado. Dê preferência por espaços abertos como saguões ou corredores com espaço, onde possam ser dispostas mesas para garrafas e bandejas. |
 | Restaurantes e Cantinas | Por tratar-se de eventos realizados durante praticamente um dia todo é essencial que existam opções para que participantes possam fazer uma refeição durante o intervalo do almoço (dentro ou fora da instituição) e também algum local onde possam comprar água, café ou fazer algum tipo de refeição rápida. É importante se certificar disso para evitar que os participantes necessitem voltar até suas casas ou se deslocarem para locais mais distantes por conta de não existir nenhum local disponível na instituição ou nas redondezas.
-| Banheiros | É importante que existam banheiros nos mesmos andares onde se encontram as salas e aula para evitar que os participantes tenham de se deslocar dentro da instituição durante o evento. 
-| Projetores | As salas onde as apresentações são realizadas necessitam possuir projetores multimídia para que palestrantes possam utilizá-los durante o evento e é importante verificar o tipo de saída disponíveis nos aparelhos (VGA, HDMI, Displayport etc) assim como as resoluções suportadas para que adaptadores possam ser providenciados. |
-| Acesso a Internet | É importante que a instituição sede do evento ofereça acesso a Internet para que palestrantes possam fazer suas demonstrações e para que participantes possam ter acesso ao site com informações sobre o evento (programação, salas etc). |
+| Banheiros | É importante que existam banheiros no mesmo andar do Auditório (ou Sala de Aula) para evitar que os participantes tenham de se deslocar dentro da instituição durante o evento. 
 
 ## Escolhendo a data do evento
 
@@ -109,10 +111,8 @@ Uma vez que se tenha a equipe de trabalho, o local e a data definidos envie um e
 >  Tchelinux `<ANO>` `<CIDADE>`
 >  Local: `<INSTITUIÇÃO>`
 >  Data: `<DIA>` de `<MÊS>` de `<ANO>` das 8 às 18h
->  Número de Salas: `<SALAS>`
 >  Vagas: `<VAGAS>`
 >  Equipe de organização: `<LISTA DE VOLUNTÁRIOS>` (Voluntários), `<DOCENTES>` (Docentes)
->  Sobre o evento: Vamos realizar um evento com `<SALAS>` salas em paralelo na Instituição `<INSTITUIÇÃO>` que possui aproximadamente `<ESTUDANTES>` cursando `<CURSOS>`.  Esta será a `<EDIÇÃO>` do Tchelinux na `<CIDADE>` e vamos contar com o apoio da `<LISTA DE INSTITUIÇÕES E EMPRESAS>`.”
 
 ## Site do Evento
 
@@ -166,17 +166,13 @@ Uma vez que a versão preliminar do site do evento se encontrar publicada é che
 > 
 > Equipe de organização do Tchelinux `<ANO>` `<CIDADE>`
 
-**Importante:** Uma vez que organizadores de eventos representam o Tchelinux pedimos que as mensagens enviadas à lista sejam formais e não gírias ou linguagem coloquial. 
+**Importante:** Uma vez que organizadores de eventos representam o Tchelinux pedimos que as mensagens enviadas à lista sejam formais, sem o uso de  gírias ou linguagem coloquial. 
 
 #### Midias sociais
 
 Uma vez que o site do evento esteja publicado, [entre em contato com os responsáveis](https://wiki.tchelinux.org/#!contatos.md#Tchelinux_nas_Redes_Sociais) por manter as mídias sociais do Tchelinux e solicite que o evento seja divulgado nos perfis oficiais do Tchelinux no Twitter e no Facebook.
 
 **Importante:** Solicitamos que sejam usados apenas os perfis oficiais do grupo e que não sejam criadas páginas adicionais em mídias sociais. Isso ajuda a manter o gerenciamento dos recursos centralizado e também reduz a fragmentação.
-
-#### Cartazes
-
-Os [templates para cartazes](https://github.com/TcheLinux/Artwork) dos eventos do Tchelinux ao longo do ano são disponibilizados no repositório do grupo no Github e se faz necessário apenas alterar os detalhes do evento (cidade, data, local e patrocinadores) para que os cartazes para divulgação fiquem prontos. 
 
 ## Pre-evento
 
@@ -186,12 +182,11 @@ Ao se aproximar da data do evento é importante que o grupo de voluntários seja
 
 | Tarefa                 | Descrição   | Recursos necessários |
 |------                  |---------    |------                |
-| Sinalização | Fixar cartazes ou placas de sinalização nas dependências da instituição para que os participantes consigam acessar local de credenciamento e salas onde as apresentações ocorrerão.  | 1 ou 2 voluntários, antes do evento começar. |
-| Teste de infraestrutura | Realizar teste de funcionamento com os projetores multimídia, som e luzes nos auditórios e salas de aula onde as apresentações ocorrerão. | 1 ou 2 voluntários, antes do evento começar |
-| Credenciamento  | Organizar as filas para o credenciamento, receber e armazenar as doações, auxiliar os participantes com informações gerais sobre o evento (onde obter a programação, localização das salas etc). | 2 ou 3 voluntários, durante a parte da manhã. |
-| Suporte a palestrantes | Levar água para os palestrantes nas salas de aula, auxiliar com projetor multimídia e acesso à internet.  | 1 ou 2 voluntários, durante o evento. |
-| Controle do tempo das apresentações | Cuidar do controle de horário das apresentações (início e término, espaço para perguntas etc).  | 1 voluntário por sala, durante o evento. |
-| Estatísticas do evento | Levantamento dos números do evento para serem divulgados no encerramento do evento (número de participantes que compareceu ao evento, quantidade de alimentos arrecadados etc). | 1 voluntário, antes do encerramento do evento ocorrer.
+| Sinalização | Fixar cartazes ou placas de sinalização nas dependências da instituição para que os participantes consigam acessar local de credenciamento e onde as apresentações irão ocorrer. | 1 voluntário, antes do evento começar. |
+| Teste de infraestrutura | Realizar teste de funcionamento com o projetor multimídia, som e luzes no Auditório ou Sala de Aula onde as apresentações ocorrerão. | 1 voluntário, antes do evento começar |
+| Credenciamento | Organizar as filas para o credenciamento, receber e armazenar as doações, auxiliar os participantes com informações gerais sobre o evento (onde obter a programação, localização do Auditório ou Sala de Aula etc). | 2 ou 3 voluntários, durante a parte da manhã. |
+| Suporte a palestrantes e controle de tempo das apresentações | Entregar água para os palestrantes, auxiliar com projetor multimídia e acesso à internet e controlar o tempo das apresentações (início e término, espaço para perguntas etc).  | 1 ou 2 voluntários, durante o evento em horários intercalados |
+| Estatísticas do evento | Levantamento dos números do evento para serem divulgados no encerramento do evento (número de participantes que compareceu ao evento, quantidade de alimentos arrecadados etc). | 1 voluntário, antes do encerramento do evento acontecer. |
 
 ### Confirmação de Palestrantes
 
@@ -203,11 +198,11 @@ Em geral solicitamos que a confirmação da palestra seja realizada por email em
 
 ### Sinalização
 
-Como é possível que boa parte dos participantes não devam conhecer a instituição sede do evento, se faz necessário fixar cartazes ou placas de sinalização nas dependências para identificar o acesso até o local do credenciamento e também aos locais onde as atividades irão ocorrer ao longo do evento (auditórios, salas de aula etc). 
+Como é possível que boa parte dos participantes não devam conhecer a instituição sede do evento, se faz necessário fixar cartazes ou placas de sinalização nas dependências para identificar o acesso até o local do credenciamento e também aos locais onde as atividades irão ocorrer ao longo do evento (Auditório ou Sala de Aula). 
 
 ### Check-list de Infraestrutura
 
-Antes do evento começar é importante realizar testes de funcionamento com os projetores multimídia, equipamentos de som e iluminação nos auditórios e salas. Os voluntários responsáveis pelo suporte aos palestrantes deverão receber as instruções de funcionamento dos equipamentos caso nenhum funcionário da instituição esteja escalado para trabalhar durante o dia do evento. 
+Antes do evento começar é importante realizar testes de funcionamento com os projetores multimídia, equipamentos de som e iluminação no Auditório ou Sala de Aula. Os voluntários responsáveis pelo suporte aos palestrantes deverão receber as instruções de funcionamento dos equipamentos caso nenhum funcionário da instituição esteja escalado para trabalhar durante o dia do evento. 
 
 ### Credenciamento
 
@@ -219,13 +214,13 @@ Os alimentos doados devem ser organizados em pilhas e colocados num local que fi
 
 ### Abertura do Evento
 
-A abertura do evento deve ser realizada dentro do horário especificado na grade do evento e recomendamos que a mesma não ultrapasse mais que 15 minutos, pois os participantes e palestrantes vão necessitar tempo para se deslocarem até as salas onde as apresentações do evento irão ocorrer.
+A abertura do evento deve ser realizada dentro do horário especificado na grade do evento e recomendamos que a mesma não ultrapasse mais que 15 minutos, para evitar atraso nas demais apresentações e atividades.
 
 O [template de apresentação](https://docs.google.com/presentation/d/1tD_Mh3R2E68j78YnyNcD3Q3T0MbdWHvFq81O1cMBgaM/) para ser usada na abertura de eventos foi disponibilizado para download e para utilizá-lo basta apenas editar o arquivo e adicionar os dados do evento.
 
 ### Suporte a Palestrantes
 
-Um dos voluntários do evento deve ficar responsável por entregar garrafas de água para os voluntários responsáveis por controlar as salas e também para auxiliar palestrantes caso problemas com projetores, computadores e acesso à Internet ocorram no decorrer do evento. 
+No decorrer do evento um voluntário deve estar disponível para auxiliar os palestrantes com eventuais problemas com projetores e também controlando o horário das apresentações. O voluntário deve ficar responsável também pela disponibilização de garrafas de água para os palestrantes.
 
 Um grupo no Telegram (ou WhatsApp) para ser usado durante o dia do evento para que a equipe de organização possa trocar mensagens e para ajudar os palestrantes caso algum problema venha a ocorrer.
 
@@ -235,14 +230,11 @@ Para que o cronograma do evento consiga fluir corretamente se faz necessário qu
 
 Os eventos do Tchelinux trabalham com slots de 60 minutos para apresentações e sugerimos que o tempo das apresentações sejam gerenciados da seguinte forma:
 
-
 | Atividade         |  Tempo          | Descrição                   |
 |---------          |---------        |-----------                  |
-| Chegada à sala e setup  | 5 minutos   | - O palestrante e participantes são convidados a entrar na sala onde a apresentação vai ocorrer. <br /> - O palestrante deve conectar seu equipamento ao projetor, ou entrega uma pendrive com a apresentação para o voluntário responsável <br /> pela sala. <br /> - O voluntário apresenta o palestrante e lhe passa a palavra para que a palestra comece. <br /> - O acesso à sala é fechado para evitar que a entrada e saída de pessoas atrapalhe o andamento da palestra. |
-| Palestra | 40 minutos | - Palestrante começa a fazer sua apresentação <br /> - Voluntário deve exibir cartazes quando estiverem faltando 30, 15 e 5 minutos para o término da apresentação. |
-| Perguntas | 10 minutos | O voluntário abre o espaço para perguntas <br /> - Quando o tempo reservado terminar, o voluntário deve fazer o agradecimento ao(s) palestrante(s). |
-| Saída | 5 minutos | - A porta é aberta para que participantes possam deixar o local e outros possam entrar para a próxima apresentação. |
-
+| Setup        | 5 minutos   | - O palestrante deve conectar seu equipamento ao projetor, ou entrega uma pendrive com a apresentação para o voluntário <br /> - O voluntário apresenta o palestrante e lhe passa a palavra para que a palestra comece. <br /> |
+| Apresentação | 45 minutos  | - Palestrante começa a fazer sua apresentação <br /> - Voluntário deve exibir cartazes quando estiverem faltando 30, 15 e 5 minutos para o término da apresentação. |
+| Perguntas    | 10 minutos  | O voluntário abre o espaço para perguntas <br /> - Quando o tempo reservado terminar, o voluntário deve fazer o agradecimento ao(s) palestrante(s). |
 
 ### Encerramento
 
