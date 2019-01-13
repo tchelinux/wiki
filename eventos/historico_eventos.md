@@ -1,7 +1,7 @@
-esultados do Grupo
+Resultados do Grupo
 ===================
 
-# Resultados até 10/06/2018
+# Resultados até 01/12/2018
 
 **Eventos:** 88
 **Cidades:** 20
@@ -10,6 +10,28 @@ esultados do Grupo
 **Participantes:** 10772
 **Quantidade de alimentos arrecadados:** 16717kg
 **Instituições agraciadas:** 41
+
+# Eventos por cidade
+
+ * Porto Alegre: 23
+ * Caxias do Sul: 11
+ * Pelotas: 8
+ * Bagé: 8
+ * Erechim: 6
+ * Novo Hamburgo: 4
+ * Bento Gonçalves: 4
+ * Santa Maria: 3
+ * Santa Cruz do Sul: 3
+ * Rio Grande: 3
+ * Gravataí: 3
+ * São Jerônimo: 2
+ * Santiago: 2
+ * Santana do Livramento: 2
+ * Lajeado: 2
+ * Uruguaiana: 1
+ * Chapecó: 1
+ * Canoas: 1
+ * Alegrete: 1
 
 # Eventos realizados
 
