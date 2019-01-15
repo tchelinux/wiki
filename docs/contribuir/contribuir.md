@@ -13,8 +13,8 @@ Para contribuir com o Wiki é necessário clonar o repositório do Github, fazer
 
 ## Requisitos
 
-- Ter uma conta no Github
-- Possuir conhecimentos em Markdown (linguagem de marcação)
+- Uma conta no [Github](https://github.com/join)
+- Conhecimentos básicos em [Markdown](https://guides.github.com/features/mastering-markdown/)
 - Saber usar um editor de texto simples (Atom, Sublime, Gedit, Kate, Vim, Emacs, Nano etc) 
 - Entendimento básico sobre como a ferramenta Git funciona (repositórios, branches, forks etc)
 
