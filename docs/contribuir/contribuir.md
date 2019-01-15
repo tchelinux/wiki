@@ -31,7 +31,7 @@ git config --global user.email fulano@dominio.com
 
 ### Crie um fork do repositório do Wiki
 
-A partir de sua conta no Github, acesse o [repositório do wiki do Tchelinux](https://github.com/TcheLinux/Wiki.git) e clique no botão "Fork", conforme a figura abaixo:
+A partir de sua conta no Github, acesse o [repositório do wiki do Tchelinux](https://github.com/tchelinux/wiki.git) e clique no botão "Fork", conforme a figura abaixo:
 
 ![](images/fork_01.png "Criando um fork, parte 1")
 
@@ -48,13 +48,13 @@ Clique em no botão "Clone or Download" (botão verde), para copiar o endereço 
 Use o endereço obtido no passo anterior para clonar o repositório:
 
 ```
-git clone https://github.com/<username>/Wiki.git
+git clone https://github.com/<username>/wiki.git
 ```
 
 ### Criando um branch de trabalho
 
 ```
-cd Wiki
+cd wiki
 
 git branch -b documento_novo
 ```
