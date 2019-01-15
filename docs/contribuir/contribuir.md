@@ -48,7 +48,7 @@ Clique em no botão "Clone or Download" (botão verde), para copiar o endereço 
 Use o endereço obtido no passo anterior para clonar o repositório:
 
 ```
-git clone https://github.com/<username>/wiki.git
+git clone <endereço-do-repositório>
 ```
 
 ### Criando um branch de trabalho
@@ -56,24 +56,32 @@ git clone https://github.com/<username>/wiki.git
 ```
 cd wiki
 
-git branch -b documento_novo
+git checkout master
+
+git branch -b nova_pagina
 ```
 
-### Fazendo alterações
+### Fazendo a sua contribuição
 
 ```
 cd docs
 
-vim documento_novo.md
+vim documento.md
 
 ```
 
 ### Gravando mudanças
 
 ```
-git add documento_novo.md
+git add documento.md
 
 git commit -m "Novo Documento para o Wiki do Tchelinux"
+```
+
+### Enviando as alterações para seu fork do repositório
+
+```
+git push origin nova_pagina
 ```
 
 ## Criando um pull request
