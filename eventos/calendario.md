@@ -13,6 +13,7 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
  * **25/05** - Disponível
  * **08/06** - **Camaquã**
  * **22/06** - Disponível   
+ * **06/07** - Disponível
  * **17/08** - **Pelotas**
  * **31/08** - Disponível
  * **14/09** - **Erechim**
