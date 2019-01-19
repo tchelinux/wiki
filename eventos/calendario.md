@@ -10,9 +10,9 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
  * **13/04** - **Santana do Livramento**
  * **27/04** - **Santa Cruz do Sul**
  * **11/05** - **Caxias do Sul**
- * **25/05** - Disponível
+ * **25/05** - **Rio Grande** 
  * **08/06** - **Camaquã**
- * **22/06** - Disponível   
+ * **22/06** - Disponível  
  * **06/07** - Disponível
  * **17/08** - **Pelotas**
  * **31/08** - Disponível
