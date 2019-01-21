@@ -26,3 +26,58 @@ O Tchelinux conta com uma equipe de voluntários que auxiliam desde na manutenç
  | Linkedin                       | [Eduardo Kienetz](https://twitter.com/kienetz), [Leonardo Vaz](https://twitter.com/leonardovaz)    | 
  | Slideshare                     | [Jerônimo Madruga](https://twitter.com/jmmadruga)                                                  | 
  | Vídeos                         | [Leonardo Vaz](https://twitter.com/leonardovaz)                                                    | 
+
+## Contatos do Tchelinux por cidade
+
+### Rio Grande do Sul
+
+| Cidade                          | Membros                                                                                            |
+|---------------------------------|----------------------------------------------------------------------------------------------------|
+| Alegrete                        | Yucatan Kenjiro da Costa                                                                           |
+| Alvorada                        |                                                                                                    |
+| Bagé                            | Ricardo Robaina                                                                                    | 
+| Bento Gonçalves                 |                                                                                                    |
+| Cachoeira do Sul                |                                                                                                    |
+| Cachoeirinha                    |                                                                                                    |
+| Camaquã                         | Marcelo Kwecko                                                                                     |
+| Canoas                          |                                                                                                    |
+| Caxias do Sul                   | Jerônimo Zucco                                                                                     |
+| Charqueadas                     |                                                                                                    |
+| Cruz Alta                       |                                                                                                    |
+| Erechim                         | Ivan Brazil Fuzzer, Marcos Lucas, Éderson                                                          |
+| Farroupilha                     |                                                                                                    |
+| Frederico Westphalen            |                                                                                                    |
+| Gramado                         |                                                                                                    |
+| Gravataí                        | Rodrigo Vianna                                                                                     |
+| Ijuí                            |                                                                                                    |
+| Ivoti                           | Fabio Beneditto                                                                                    |
+| Jaguarão                        |                                                                                                    |
+| Lajeado                         |                                                                                                    |
+| Novo Hamburgo                   | Marcos Alano, Thiago Rafael                                                                        |
+| Passo Fundo                     | Luciano Camargo Cruz                                                                               |
+| Pelotas                         | Jerônimo Madruga, Carlos Brandão Schwab                                                            |
+| Porto Alegre                    | Leonardo Vaz, Rafael Jeffman, Rafael Aquini                                                        |
+| Osório                          |                                                                                                    |
+| Quaraí                          |                                                                                                    |
+| Rio Grande                      | Vinicius Hax, Diego Costa                                                                          |
+| Rosário do Sul                  |                                                                                                    |
+| Santa Cruz do Sul               | Luis Rauber, Eduardo Jacobi, Wesley Batista                                                        |
+| Santa Maria                     | Tonin Bolzan, Jaime Maretolli                                                                      |
+| Santa Rosa                      |                                                                                                    |
+| Santa Vitória do Palmar         |                                                                                                    |
+| Santana do Livramento           | Sandro Custódio                                                                                    |
+| Santiago                        |                                                                                                    |
+| Santo Ângelo                    |                                                                                                    |
+| São Borja                       |                                                                                                    |
+| São Gabriel                     |                                                                                                    |
+| São Jerônimo                    |                                                                                                    |
+| São José do Norte               |                                                                                                    |
+| São Leopoldo                    |                                                                                                    |
+| Sapiranga                       |                                                                                                    |
+| Sapucaia do Sul                 |                                                                                                    |
+| Taquara                         |                                                                                                    |
+| Torres                          |                                                                                                    |
+| Uruguaiana                      |                                                                                                    |
+| Vacaria                         |                                                                                                    |
+| Viamão                          |                                                                                                    |
+
