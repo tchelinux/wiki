@@ -5,8 +5,7 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
 
 ## Tchelinux 2019
 
- * **09/03** - Disponível
- * **23/03** - Disponível 
+ * **30/03** - **Passo Fundo**
  * **13/04** - **Santana do Livramento**
  * **27/04** - **Santa Cruz do Sul**
  * **11/05** - **Caxias do Sul**
