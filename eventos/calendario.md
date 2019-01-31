@@ -11,7 +11,7 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
  * **11/05** - **Caxias do Sul**
  * **25/05** - **Rio Grande** 
  * **08/06** - **Camaquã**
- * **22/06** - Disponível  
+ * **22/06** - **Novo Hamburgo**  
  * **06/07** - Disponível
  * **17/08** - **Pelotas**
  * **31/08** - Disponível
