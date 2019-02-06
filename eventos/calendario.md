@@ -14,7 +14,7 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
  * **22/06** - **Novo Hamburgo**  
  * **06/07** - Disponível
  * **17/08** - **Pelotas**
- * **31/08** - Disponível
+ * **31/08** - **Ijuí**
  * **14/09** - **Erechim**
  * **28/09** - **Alegrete** 
  * **05/10** - **Bagé**
