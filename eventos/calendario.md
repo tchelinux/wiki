@@ -19,6 +19,6 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
 | 14/09 | Erechim                | FAE          | Ederson Szlachta | 01/07 à 02/08   | 05/08        |
 | 28/09 | Alegrete               | UNIPAMPA     | Andrius Jaques   | 29/04 à 31/05   | 03/06        |
 | 05/10 | Bagé                   | UNIPAMPA     | Julio Saraçol    | 29/07 à 30/08   | 02/09        |
-| 19/10 | Bento Gonçalves        | UCS          | Scheila da Silva | 12/08 à 12/09   | 16/10        |
+| 19/10 | Bento Gonçalves        | UCS          | Scheila da Silva | 12/08 à 12/09   | 16/09        |
 | 09/11 | Santa Maria            | UFN          | Tonin Bolzan     | 19/08 à 27/09   | 30/09        |
 | 30/11 | Porto Alegre           | FSPOA        | Leonardo Vaz     | 26/08 à 04/10   | 07/10        |
