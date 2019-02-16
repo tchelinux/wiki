@@ -5,8 +5,8 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
 
 ## Tchelinux 2019
 
-| Data  | Cidade                 | Local    | Coordenador      | Abertura Chamada de Trabalhos | Encerramento da Chamada de Trabalhos  | Programação  |
-|-------|------------------------|----------|------------------|-------------------------------|---------------------------------------|--------------|
+| Data  | Cidade                 | Local    | Coordenador      | Começo da Chamada de Trabalhos | Fim da Chamada de Trabalhos  | Anúncio da Programação  |
+|-------|------------------------|----------|------------------|-------------------------------|-------------------------------|-------------------------|
 | 30/03 | Passo Fundo            | IMED     | Luciano Cruz     | 04/02                         | 28/02         | 01/03        |
 | 13/04 | Sant'Ana do Livramento | IFSul    | Sandro Custódio  | 11/02                         | 07/03         | 11/03        |
 | 27/04 | Santa Cruz do Sul      | UNISC    | Eduardo Jacobi   | 18/02                         | 22/03         | 25/03        | 
