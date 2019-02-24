@@ -11,7 +11,7 @@ Esta página contém a lista de datas disponíveis e eventos confirmados para o 
 | 13/04 | Sant'Ana do Livramento | IFSul    | Sandro Custódio  | 11/02                         | 07/03         | 11/03        |
 | 27/04 | Santa Cruz do Sul      | UNISC    | Eduardo Jacobi   | 18/02                         | 22/03         | 25/03        | 
 | 11/05 | Caxias do Sul          | UCS      | Jerônimo Zucco   | 25/02                         | 29/03         | 02/04        |
-| 25/05 | Rio Grande             | FURG     | Jerônimo Madruga | 04/03                         | 12/04         | 15/04        | 
+| 25/05 | Rio Grande             | IFRS     | Jerônimo Madruga | 04/03                         | 12/04         | 15/04        | 
 | 08/06 | Camaquã                | IFSul    | Marcelo Kwecko   | 25/03                         | 26/04         | 29/04        |
 | 22/06 | Novo Hamburgo          | Feevale  | Eduardo Mozart   | 15/04                         | 17/05         | 20/05        |  
 | 17/08 | Pelotas                | UCPel    | Claudio Diniz    | 13/05                         | 28/06         | 01/07        | 
