@@ -11,8 +11,8 @@ Esta página contém uma lista com as cidades que serão visitadas durante o Tch
 | 13/04 | [Sant'Ana do Livramento](https://livramento.tchelinux.org) | IFSul    | Sandro Custódio  | 11/02      | 07/03    | 11/03        |
 | 27/04 | [Santa Cruz do Sul](https://santacruz.tchelinux.org)       | UNISC    | Eduardo Jacobi   | 18/02      | 22/03    | 25/03        | 
 | 11/05 | [Caxias do Sul](https://caxias.tchelinux.org)              | UCS      | Jerônimo Zucco   | 25/02      | 29/03    | 02/04        |
-| 25/05 | [Rio Grande](https://tchelinux.org)                        | IFRS     | Jerônimo Madruga | 04/03      | 12/04    | 15/04        | 
-| 08/06 | [Camaquã](https://tchelinux.org)                           | IFSul    | Marcelo Kwecko   | 25/03      | 26/04    | 29/04        |
+| 25/05 | [Rio Grande](https://riogrande.tchelinux.org)              | IFRS     | Jerônimo Madruga | 04/03      | 12/04    | 15/04        | 
+| 08/06 | [Camaquã](https://camaqua.tchelinux.org)                   | IFSul    | Marcelo Kwecko   | 25/03      | 26/04    | 29/04        |
 | 22/06 | [Novo Hamburgo](https://tchelinux.org)                     | Feevale  | Eduardo Mozart   | 15/04      | 17/05    | 20/05        |  
 | 17/08 | [Pelotas](https://tchelinux.org)                           | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
 | 31/08 | [Ijui](https://tchelinux.org)                              | Unijui   | Leonardo Vaz     | 24/06      | 02/07    | 29/07        | 
