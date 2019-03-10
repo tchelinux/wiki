@@ -28,7 +28,7 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 
 ### Calendario
 
-Abaixo temos o calendário para os próximos eventos no formato Google Calendar, para adicioná-lo ao seu calendário, basta [clicar aqui](https://calendar.google.com/calendar/embed?src=olqdnne5fahk11tjc2g3dipru4%40group.calendar.google.com&ctz=America%2FSao_Paulo).
+Abaixo temos o calendário para os próximos eventos no formato Google Calendar, para adicioná-lo ao seu calendário, basta [clicar aqui](https://calendar.google.com/calendar?cid=b2xxZG5uZTVmYWhrMTF0amMyZzNkaXBydTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 <div class="calendar-responsive">
    <iframe src="https://calendar.google.com/calendar/embed?title=Calend%C3%A1rio%20de%20eventos%20do%20Tchelinux&amp;mode=WEEK&amp;height=800&amp;wkst=1&amp;hl=pt_BR&amp;bgcolor=%23FFFFFF&amp;src=olqdnne5fahk11tjc2g3dipru4%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
