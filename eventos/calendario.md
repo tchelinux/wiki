@@ -3,7 +3,7 @@ Calendário de Atividades
 
 Esta página contém uma lista com as cidades que serão visitadas durante o Tchelinux 2019, assim como as datas de abertura e encerramento das chamadas de trabalhos (CFP) e também do anúncio da programação de cada um dos eventos. Para informações sobre eventos realizados anteriormente, visite [esta página](historico_eventos.md).
 
-## Cronograma
+### Cronograma
 
 | Data  | Cidade                                                     | Local    | Coordenador      | Inicio CFP | Fim CFP  | Programação  |
 |-------|------------------------------------------------------------|----------|------------------|------------|----------|--------------|
@@ -24,10 +24,10 @@ Esta página contém uma lista com as cidades que serão visitadas durante o Tch
 | 30/11 | [Porto Alegre](https://tchelinux.org)                      | FSPOA    | Leonardo Vaz     | 26/08      | 04/10    | 07/10        |
 
 
-## Calendario
+### Calendario
 
 Abaixo temos o calendário para os próximos eventos no formato Google Calendar, para adicioná-lo ao seu calendário, basta [clicar aqui](https://calendar.google.com/calendar?cid=b2xxZG5uZTVmYWhrMTF0amMyZzNkaXBydTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 <div class="calendar-responsive">
-  <iframe src="https://calendar.google.com/calendar/embed?title=Calend%C3%A1rio%20de%20eventos%20do%20Tchelinux&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=olqdnne5fahk11tjc2g3dipru4%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?title=Calend%C3%A1rio%20de%20eventos%20do%20Tchelinux&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=olqdnne5fahk11tjc2g3dipru4%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border:solid 1px #777" width="1280" height="800" frameborder="0" scrolling="no"></iframe>
 </div>
