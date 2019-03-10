@@ -15,12 +15,12 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 | 11/05 | [Caxias do Sul](https://caxias.tchelinux.org)              | UCS      | Jerônimo Zucco   | 25/02      | 29/03    | 02/04        |
 | 25/05 | [Rio Grande](https://riogrande.tchelinux.org)              | IFRS     | Jerônimo Madruga | 04/03      | 12/04    | 15/04        | 
 | 08/06 | [Camaquã](https://camaqua.tchelinux.org)                   | IFSul    | Marcelo Kwecko   | 25/03      | 26/04    | 29/04        |
-| 15/06 | [Novo Hamburgo](https://nh.tchelinux.org)                     | Feevale  | Eduardo Mozart   | 08/04      | 11/05    | 13/05        |  
+| 15/06 | [Novo Hamburgo](https://nh.tchelinux.org)                  | Feevale  | Eduardo Mozart   | 08/04      | 11/05    | 13/05        |  
 | 17/08 | [Pelotas](https://tchelinux.org)                           | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
-| 31/08 | [Ijui](https://tchelinux.org)                              | Unijui   | Leonardo Vaz     | 24/06      | 02/07    | 29/07        | 
+| 31/08 | [Ijui](https://tchelinux.org)                              | Unijui   | Leonardo Vaz     | 24/06      | 27/07    | 29/07        | 
 | 14/09 | [Erechim](https://tchelinux.org)                           | FAE      | Ederson Szlachta | 01/07      | 02/08    | 05/08        |
-| 28/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 29/04      | 31/05    | 03/06        |
-| 05/10 | [Bagé](https://tchelinux.org)                              | UNIPAMPA | Julio Saraçol    | 29/07      | 30/08    | 02/09        |
+| 28/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 08/07      | 23/08    | 26/08        |
+| 05/10 | [Bagé](https://tchelinux.org)                              | UNIPAMPA | Julio Saraçol    | 15/07      | 30/08    | 02/09        |
 | 19/10 | [Bento Gonçalves](https://tchelinux.org)                   | UCS      | Scheila da Silva | 12/08      | 12/09    | 16/09        |
 | 09/11 | [Santa Maria](https://tchelinux.org)                       | UFN      | Tonin Bolzan     | 19/08      | 27/09    | 30/09        |
 | 30/11 | [Porto Alegre](https://tchelinux.org)                      | FSPOA    | Leonardo Vaz     | 26/08      | 04/10    | 07/10        |
