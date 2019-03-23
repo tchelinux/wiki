@@ -1,13 +1,13 @@
-Tchelinux Campus Ambassadors
-============================
+Projeto Tchelinux Campus
+========================
 
 ## Sobre este documento
 
-Este rascunho contém ideias sobre o programa "Tchelinux Campus Ambassadors" e seus principais requisitos.
+Este documento contém detalhes do projeto Tchelinux Campus e seus principais requisitos.
 
 ## O que é?
 
-O projeto Tchelinux Campus Ambassadors tem como principal objetivo promover o Software Livre e o Tchelinux em instituições de ensino do Rio Grande do Sul através da realização de apresentações para novos alunos durante o ingresso às instituições.
+O projeto Tchelinux Campus tem como principal objetivo promover o Software Livre e o Tchelinux em instituições de ensino do Rio Grande do Sul através da realização de apresentações para novos alunos durante o ingresso às instituições.
 
 ## Como funciona?
 
@@ -33,7 +33,8 @@ O grupo de voluntários vai se renovando a medida que calouros chegam e que os v
 
 ## Recursos
 
+- [Lista de contatos](campus/contatos.md) nas cidades e instituições
 - [Biblioteca de apresentações](biblioteca_apresentacoes.md) sobre Software Livre e tópicos relacionados
 - Documentação sobre como configurar um laboratório para fins de estudo e desenvolvimento
-- Artwork para confecção de material para divulgação (adesivos, camisetas, banners etc)
+- Artwork para confecção de material para divulgação (adesivos, camisetas, banners etc) 
 

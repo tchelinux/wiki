@@ -24,6 +24,12 @@
   * [Google+](https://plus.google.com/+TchelinuxLUG)
   * [Linkedin](https://www.linkedin.com/groups/771307)
 
+[Tchelinux Campus]()
+
+  * [Tchelinux Campus](campus/tchelinux_campus.md)
+  * [Biblioteca de Apresentações](campus/biblioteca_apresentacoes.md)
+  * [Contatos](campus/contatos.md)
+
 [Documentação]()
 
   * [Como contribuir com este Wiki](docs/contribuir/contribuir.md)
