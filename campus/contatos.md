@@ -7,14 +7,14 @@ Abaixo segue a lista de contatos do projeto Tchelinux Campus em cidades do Rio G
 | Cidade                  | Instituição             | Responsáveis          |
 |---                      |---                      |---                    |
 | Alegrete                |                         |                                                                  |
-| Bagé                    | UNIPAMPA                | [Ricardo Robaina](https://github.com/robainaricardo/)            |
+| Bagé                    | Universidade Federal do Pampa (UNIPAMPA)  | [Ricardo Robaina](https://github.com/robainaricardo/) |
 | Bento Gonçalves         |                         |                                                                  |
 | Cachoeira do Sul        |                         |                                                                  |
 | Camaquã                 |                         |                                                                  |
 | Canoas                  |                         |                                                                  |
 | Caxias do Sul           |                         |                                                                  |
 | Charqueadas             |                         |                                                                  |
-| Erechim                 | Faculdade Anglicana de Erechim (FAE) | [Ederson Szlachta](https://github.com/edtsz)        |
+| Erechim                 | Faculdade Anglicana de Erechim (FAE)      | [Ederson Szlachta](https://github.com/edtsz) |
 | Gravataí                |                         |                                                                  | 
 | Ijuí                    |                         |                                                                  |
 | Novo Hamburgo           |                         |                                                                  |
