@@ -1,7 +1,7 @@
 Contatos Tchelinux Campus
 =========================
 
-Abaixo segue a lista de contatos do projeto Tchelinux Campus em cidades do Rio Grande do Sul. Caso queira adicionar alguma cidade ou instituição [entre em contato](https://groups.google.com/forum/#!forum/tchelinux):
+Abaixo segue a lista de contatos do projeto Tchelinux Campus em cidades do Rio Grande do Sul. Caso você tenha interesse em participar do projeto, favor preencha [este formulário](https://goo.gl/forms/XyJujCGkZnBt0ZrW2):
 
  
 | Cidade                  | Instituição             | Responsáveis          |
