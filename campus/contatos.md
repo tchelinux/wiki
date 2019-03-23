@@ -14,7 +14,7 @@ Abaixo segue a lista de contatos do projeto Tchelinux Campus em cidades do Rio G
 | Canoas                  |                         |                                                                  |
 | Caxias do Sul           |                         |                                                                  |
 | Charqueadas             |                         |                                                                  |
-| Erechim                 |                         |                                                                  |
+| Erechim                 | Faculdade Anglicana de Erechim (FAE) | [Ederson Szlachta](https://github.com/edtsz)        |
 | Gravataí                |                         |                                                                  | 
 | Ijuí                    |                         |                                                                  |
 | Novo Hamburgo           |                         |                                                                  |
