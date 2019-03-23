@@ -13,7 +13,7 @@ O projeto Tchelinux Campus tem como principal objetivo promover o Software Livre
 
 Cada instituição irá ter um ou mais contatos no quadro de docentes responsáveis por servir como interface do projeto. Juntamente com os professores teremos alunos que participarão da iniciativa e cuidarão da divulgação do projeto na instituição.
 
-A cada semestre os voluntários devem organizar um pequeno evento de boas vindas para falar sobre Software Livre aos calouros e convidá-los a participar do Tchelinux.
+A cada semestre os voluntários devem organizar um pequeno evento de boas vindas para falar sobre Software Livre aos calouros e convidá-los a participar do Tchelinux. Relatos das apresentações na [lista de discussão do Tchelinux](https://groups.google.com/forum/#!forum/tchelinux) com links para albuns com fotografias do evento são bem-vindos!
 
 O grupo de voluntários vai se renovando a medida que calouros chegam e que os veteranos se formam, garantindo a continuidade do projeto.
 
