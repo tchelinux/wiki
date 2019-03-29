@@ -33,7 +33,7 @@ O grupo de voluntários vai se renovando a medida que calouros chegam e que os v
 
 ## Recursos
 
-- [Lista de contatos](campus/contatos.md) nas cidades e instituições
+- [Lista de contatos](contatos.md) nas cidades e instituições
 - [Biblioteca de apresentações](biblioteca_apresentacoes.md) sobre Software Livre e tópicos relacionados
 - Documentação sobre como configurar um laboratório para fins de estudo e desenvolvimento
 - Artwork para confecção de material para divulgação (adesivos, camisetas, banners etc) 
