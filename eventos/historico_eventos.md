@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 88
+ * Eventos: 89
  * Cidades: 20
- * Instituições: 27
- * Palestras: 1363
- * Participantes: 10772
- * Quantidade de alimentos arrecadados: 16717kg
- * Instituições agraciadas: 41
+ * Instituições: 28
+ * Palestras: 1371
+ * Participantes: 10897
+ * Quantidade de alimentos arrecadados: 16867kg
+ * Instituições agraciadas: 42
 
 # Eventos por cidade
 
@@ -32,8 +32,20 @@ Resultados do Grupo
  * Chapecó: 1
  * Canoas: 1
  * Alegrete: 1
+ * Passo Fundo: 1
 
 # Eventos realizados
+
+## 2019
+
+### Tchelinux 2019 Passo Fundo
+
+Data: 30/03
+Local: IMED
+Palestras: 8
+Publico: 125
+Arrecadações: 150kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/tNmOx1XVyCA/UAJnv3rLBgAJ)
 
 ## 2018
 
