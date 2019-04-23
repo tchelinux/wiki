@@ -47,6 +47,15 @@ Publico: 125
 Arrecadações: 150kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/tNmOx1XVyCA/UAJnv3rLBgAJ)
 
+### Tchelinux 2019 Sant'Ana do Livramento
+
+Data: 13/04
+Local: IFSul Campus Sant'Ana do Livramento
+Palestras: 7
+Publico: 108
+Arrecadações: 81kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/97CxjZYdsOo/3vj-iYOdCwAJ)
+
 ## 2018
 
 ### Tchelinux 2018 Rio Grande
