@@ -21,6 +21,7 @@
   * [Twitter](https://twitter.com/tchelinux)
   * [Mastodon](https://mastodon.social/@tchelinux)
   * [Facebook](https://facebook.com/tchelinux)
+  * [Instagram](https://instagram.com/tchelinux)
   * [Google+](https://plus.google.com/+TchelinuxLUG)
   * [Linkedin](https://www.linkedin.com/groups/771307)
 
