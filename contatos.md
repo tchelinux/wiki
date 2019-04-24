@@ -21,6 +21,7 @@ O Tchelinux conta com uma equipe de voluntários que auxiliam desde na manutenç
  | YouTube                        | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Twitter                        | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Mastodon                       | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
+ | Instagram                      | [Leonardo Vaz](https://twitter.com/leonardovaz), [Rafael Jeffman](https://twitter.com/rafasgj)     |
  | Facebook                       | [Rafael Jeffman](https://twitter.com/rafasgj),  [Jerônimo Madruga](https://twitter.com/jmmadruga)  | 
  | Google+                        | [Jerônimo Madruga](https://twitter.com/jmmadruga, [Leonardo Vaz](https://twitter.com/leonardovaz)  |
  | Linkedin                       | [Eduardo Kienetz](https://twitter.com/kienetz), [Leonardo Vaz](https://twitter.com/leonardovaz)    | 
