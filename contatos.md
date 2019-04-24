@@ -68,6 +68,7 @@ O Tchelinux conta com uma equipe de voluntários que auxiliam desde na manutenç
 | Santa Vitória do Palmar         |                                                                                                    |
 | Santana do Livramento           | Sandro Custódio                                                                                    |
 | Santiago                        |                                                                                                    |
+| Santo Augusto                   | Iuri Santos                                                                                        | 
 | Santo Ângelo                    |                                                                                                    |
 | São Borja                       |                                                                                                    |
 | São Gabriel                     |                                                                                                    |
