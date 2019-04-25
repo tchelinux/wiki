@@ -19,8 +19,8 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 | 06/07 | [Tchelinux Day 2019](https://tchelinux.org)                | -        | -                | -          | -        | -            |  
 | 17/08 | [Pelotas](https://tchelinux.org)                           | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
 | 31/08 | [Ijui](https://tchelinux.org)                              | Unijui   | Leonardo Vaz     | 24/06      | 27/07    | 29/07        | 
-| 14/09 | [Erechim](https://tchelinux.org)                           | FAE      | Ederson Szlachta | 01/07      | 02/08    | 05/08        |
-| 28/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 08/07      | 23/08    | 26/08        |
+| 14/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 01/07      | 02/08    | 05/08        |
+| 28/09 | [Erechim](https://tchelinux.org)                           | FAE      | Ederson Szlachta | 08/07      | 23/08    | 26/08        |
 | 05/10 | [Bagé](https://tchelinux.org)                              | UNIPAMPA | Julio Saraçol    | 15/07      | 30/08    | 02/09        |
 | 19/10 | [Bento Gonçalves](https://tchelinux.org)                   | UCS      | Scheila da Silva | 12/08      | 12/09    | 16/09        |
 | 09/11 | [Santa Maria](https://tchelinux.org)                       | UFN      | Tonin Bolzan     | 19/08      | 27/09    | 30/09        |
