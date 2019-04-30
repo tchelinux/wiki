@@ -26,7 +26,7 @@ Resultados do Grupo
  * Gravataí: 3
  * São Jerônimo: 2
  * Santiago: 2
- * Santana do Livramento: 2
+ * Santana do Livramento: 3
  * Lajeado: 2
  * Uruguaiana: 1
  * Chapecó: 1
