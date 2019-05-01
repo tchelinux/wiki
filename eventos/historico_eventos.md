@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 90 
+ * Eventos: 91
  * Cidades: 20
  * Instituições: 29
- * Palestras: 1378
- * Participantes: 11005
- * Quantidade de alimentos arrecadados: 16948kg
- * Instituições agraciadas: 43
+ * Palestras: 1402
+ * Participantes: 11185
+ * Quantidade de alimentos arrecadados: 17148kg
+ * Instituições agraciadas: 44
 
 # Eventos por cidade
 
@@ -20,8 +20,8 @@ Resultados do Grupo
  * Erechim: 6
  * Novo Hamburgo: 4
  * Bento Gonçalves: 4
+ * Santa Cruz do Sul: 4
  * Santa Maria: 3
- * Santa Cruz do Sul: 3
  * Rio Grande: 3
  * Gravataí: 3
  * São Jerônimo: 2
@@ -55,6 +55,15 @@ Palestras: 7
 Publico: 108
 Arrecadações: 81kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/97CxjZYdsOo/3vj-iYOdCwAJ)
+
+### Tchelinux 2019 Santa Cruz do Sul
+
+Data: 27/04
+Local: UNISC
+Palestras: 24
+Publico: 180
+Arrecadações: 200
+[Relatório](https://groups.google.com/d/msg/tchelinux/452AM0r33aM/chQxTmMqAAAJ)
 
 ## 2018
 
