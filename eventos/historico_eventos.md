@@ -3,18 +3,18 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 91
+ * Eventos: 92
  * Cidades: 20
  * Instituições: 29
- * Palestras: 1402
- * Participantes: 11185
- * Quantidade de alimentos arrecadados: 17148kg
- * Instituições agraciadas: 44
+ * Palestras: 1423
+ * Participantes: 11330
+ * Quantidade de alimentos arrecadados: 17248kg
+ * Instituições agraciadas: 45
 
 # Eventos por cidade
 
  * Porto Alegre: 23
- * Caxias do Sul: 11
+ * Caxias do Sul: 12
  * Pelotas: 8
  * Bagé: 8
  * Erechim: 6
