@@ -62,7 +62,7 @@ Data: 27/04
 Local: UNISC
 Palestras: 24
 Publico: 180
-Arrecadações: 200
+Arrecadações: 200kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/452AM0r33aM/chQxTmMqAAAJ)
 
 ### Tchelinux 2019 Caxias do Sul
