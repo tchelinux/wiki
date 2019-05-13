@@ -65,6 +65,15 @@ Publico: 180
 Arrecadações: 200
 [Relatório](https://groups.google.com/d/msg/tchelinux/452AM0r33aM/chQxTmMqAAAJ)
 
+### Tchelinux 2019 Caxias do Sul
+
+Data: 11/05
+Local: UCS
+Palestras: 21
+Publico: 145
+Arrecadações: 100kg
+[Relatório]()
+
 ## 2018
 
 ### Tchelinux 2018 Rio Grande
