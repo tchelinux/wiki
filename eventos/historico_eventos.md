@@ -72,7 +72,7 @@ Local: UCS
 Palestras: 21
 Publico: 145
 Arrecadações: 100kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/BJNDXUn1x14/OiyZNXGFAwAJ)
 
 ## 2018
 
