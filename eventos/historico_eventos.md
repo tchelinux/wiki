@@ -8,7 +8,7 @@ Resultados do Grupo
  * Instituições: 29
  * Palestras: 1423
  * Participantes: 11330
- * Quantidade de alimentos arrecadados: 17248kg
+ * Quantidade de alimentos arrecadados: 17266kg
  * Instituições agraciadas: 45
 
 # Eventos por cidade
@@ -71,7 +71,7 @@ Data: 11/05
 Local: UCS
 Palestras: 21
 Publico: 145
-Arrecadações: 100kg
+Arrecadações: 118kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/BJNDXUn1x14/OiyZNXGFAwAJ)
 
 ## 2018
