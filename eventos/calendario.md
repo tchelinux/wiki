@@ -17,7 +17,7 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 | 08/06 | [Camaquã](https://camaqua.tchelinux.org)                   | IFSul    | Marcelo Kwecko   | 25/03      | 26/04    | 29/04        |
 | 15/06 | [Novo Hamburgo](https://nh.tchelinux.org)                  | Feevale  | Eduardo Mozart   | 08/04      | 11/05    | 13/05        |  
 | 06/07 | [Tchelinux Day 2019](https://tchelinux.org)                | -        | -                | -          | -        | -            |  
-| 17/08 | [Pelotas](https://tchelinux.org)                           | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
+| 24/08 | [Pelotas](https://tchelinux.org)                           | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
 | 31/08 | [Ijui](https://tchelinux.org)                              | Unijui   | Leonardo Vaz     | 24/06      | 27/07    | 29/07        | 
 | 14/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 01/07      | 02/08    | 05/08        |
 | 28/09 | [Erechim](https://tchelinux.org)                           | FAE      | Ederson Szlachta | 08/07      | 23/08    | 26/08        |
