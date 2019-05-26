@@ -21,8 +21,8 @@ Resultados do Grupo
  * Novo Hamburgo: 4
  * Bento Gonçalves: 4
  * Santa Cruz do Sul: 4
+ * Rio Grande: 4
  * Santa Maria: 3
- * Rio Grande: 3
  * Gravataí: 3
  * São Jerônimo: 2
  * Santiago: 2
