@@ -81,6 +81,7 @@ Local: IFRS
 Palestras: 20
 Publico: 124
 Arrecadações: 86kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/JNOoUpNUkYw/1EZvzYqOBAAJ)
 
 ## 2018
 
