@@ -74,6 +74,14 @@ Publico: 145
 Arrecadações: 118kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/BJNDXUn1x14/OiyZNXGFAwAJ)
 
+### Tchelinux 2019 Rio Grande
+
+Data: 25/05
+Local: IFRS
+Palestras: 20
+Publico: 124
+Arrecadações: 86kg
+
 ## 2018
 
 ### Tchelinux 2018 Rio Grande
