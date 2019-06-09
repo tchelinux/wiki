@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 93
- * Cidades: 20
- * Instituições: 30
- * Palestras: 1443
- * Participantes: 11454
- * Quantidade de alimentos arrecadados: 17352kg
- * Instituições agraciadas: 46
+ * Eventos: 94
+ * Cidades: 21
+ * Instituições: 31
+ * Palestras: 1457
+ * Participantes: 11559
+ * Quantidade de alimentos arrecadados: 17432kg
+ * Instituições agraciadas: 47
 
 # Eventos por cidade
 
@@ -33,6 +33,7 @@ Resultados do Grupo
  * Canoas: 1
  * Alegrete: 1
  * Passo Fundo: 1
+ * Camaquã
 
 # Eventos realizados
 
@@ -82,6 +83,15 @@ Palestras: 20
 Publico: 124
 Arrecadações: 86kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/JNOoUpNUkYw/1EZvzYqOBAAJ)
+
+### Tchelinux 2019 Camaquã
+
+Data: 08/06
+Local: IFSul
+Palestras: 14
+Publico: 105
+Arrecadações: 80
+[Relatório](https://groups.google.com/d/msg/tchelinux/jaaKzeUjcvU/GgLMmLnRAAAJ)
 
 ## 2018
 
