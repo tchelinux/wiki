@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 94
+ * Eventos: 95
  * Cidades: 21
- * Instituições: 31
- * Palestras: 1457
- * Participantes: 11559
- * Quantidade de alimentos arrecadados: 17432kg
- * Instituições agraciadas: 47
+ * Instituições: 32
+ * Palestras: 1478
+ * Participantes: 11659
+ * Quantidade de alimentos arrecadados: 17537kg
+ * Instituições agraciadas: 48
 
 # Eventos por cidade
 
@@ -18,7 +18,7 @@ Resultados do Grupo
  * Pelotas: 8
  * Bagé: 8
  * Erechim: 6
- * Novo Hamburgo: 4
+ * Novo Hamburgo: 5
  * Bento Gonçalves: 4
  * Santa Cruz do Sul: 4
  * Rio Grande: 4
@@ -33,7 +33,7 @@ Resultados do Grupo
  * Canoas: 1
  * Alegrete: 1
  * Passo Fundo: 1
- * Camaquã
+ * Camaquã: 1 
 
 # Eventos realizados
 
@@ -90,8 +90,17 @@ Data: 08/06
 Local: IFSul
 Palestras: 14
 Publico: 105
-Arrecadações: 80
+Arrecadações: 80kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/jaaKzeUjcvU/GgLMmLnRAAAJ)
+
+### Tchelinux 2019 Novo Hamburgo
+
+Data: 15/06
+Local: FEEVALE
+Palestras: 21
+Público: 100
+Arrecadações: 105kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/P5ZZ2HcnQXQ/1ZJT6HPXCAAJ)
 
 ## 2018
 
