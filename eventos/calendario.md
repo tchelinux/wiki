@@ -18,9 +18,9 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 | 15/06 | [Novo Hamburgo](https://nh.tchelinux.org)                  | Feevale  | Eduardo Mozart   | 08/04      | 11/05    | 13/05        |  
 | 24/08 | [Pelotas](https://pelotas.tchelinux.org)                   | UCPel    | Claudio Diniz    | 13/05      | 28/06    | 01/07        | 
 | 31/08 | [Santo Ângelo](https://santoangelo.tchelinux.org)          | URISAN   | Leonardo Vaz     | 24/06      | 27/07    | 29/07        | 
-| 14/09 | [Alegrete](https://tchelinux.org)                          | UNIPAMPA | Andrius Jaques   | 10/07      | 27/07    | 29/07        |
-| 28/09 | [Erechim](https://tchelinux.org)                           | FAE      | Ederson Szlachta | 17/07      | 10/08    | 12/08        |
-| 05/10 | [Bagé](https://tchelinux.org)                              | UNIPAMPA | Julio Saraçol    | 24/07      | 24/08    | 26/08        |
+| 14/09 | [Alegrete](https://alegrete.tchelinux.org)                 | UNIPAMPA | Andrius Jaques   | 10/07      | 27/07    | 29/07        |
+| 28/09 | [Erechim](https://erechim.tchelinux.org)                   | FAE      | Ederson Szlachta | 17/07      | 10/08    | 12/08        |
+| 05/10 | [Bagé](https://bage.tchelinux.org)                         | UNIPAMPA | Ricardo Robaina  | 24/07      | 24/08    | 26/08        |
 | 19/10 | [Bento Gonçalves](https://tchelinux.org)                   | UCS      | Scheila da Silva | 12/08      | 12/09    | 16/09        |
 | 09/11 | [Santa Maria](https://tchelinux.org)                       | UFN      | Tonin Bolzan     | 19/08      | 27/09    | 30/09        |
 | 14/12 | [Porto Alegre](https://tchelinux.org)                      | FSPOA    | Leonardo Vaz     | 26/08      | 04/10    | 07/10        |
