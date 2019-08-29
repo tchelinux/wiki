@@ -3,19 +3,19 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 95
+ * Eventos: 96
  * Cidades: 21
  * Instituições: 32
- * Palestras: 1478
- * Participantes: 11659
- * Quantidade de alimentos arrecadados: 17537kg
+ * Palestras: 1509
+ * Participantes: 11899
+ * Quantidade de alimentos arrecadados: 17737kg
  * Instituições agraciadas: 48
 
 # Eventos por cidade
 
  * Porto Alegre: 23
  * Caxias do Sul: 12
- * Pelotas: 8
+ * Pelotas: 9
  * Bagé: 8
  * Erechim: 6
  * Novo Hamburgo: 5
@@ -101,6 +101,16 @@ Palestras: 21
 Público: 100
 Arrecadações: 105kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/P5ZZ2HcnQXQ/1ZJT6HPXCAAJ)
+
+### Tchelinux 2019 Pelotas
+
+Data: 24/08
+Local: UCPel
+Palestras: 31
+Publico: 240
+Arrecadações: 200kg
+[Relatório]()
+
 
 ## 2018
 
