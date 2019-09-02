@@ -119,7 +119,7 @@ Local: URI Campus Santo Ângelo
 Palestras: 14
 Participantes: 120
 Arrecadações: 105kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/rQZB3uUSyvg/8R6MWgsrEgAJ)
 
 ---
 ## 2018
