@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 01/12/2018
 
- * Eventos: 96
- * Cidades: 21
- * Instituições: 32
- * Palestras: 1509
- * Participantes: 11899
- * Quantidade de alimentos arrecadados: 17737kg
- * Instituições agraciadas: 48
+ * Eventos: 97
+ * Cidades: 22
+ * Instituições: 33
+ * Palestras: 1523
+ * Participantes: 12019
+ * Quantidade de alimentos arrecadados: 17842kg
+ * Instituições agraciadas: 49
 
 # Eventos por cidade
 
@@ -34,6 +34,7 @@ Resultados do Grupo
  * Alegrete: 1
  * Passo Fundo: 1
  * Camaquã: 1 
+ * Santo Ângelo: 1
 
 # Eventos realizados
 
@@ -111,7 +112,16 @@ Participantes: 240
 Arrecadações: 200kg
 [Relatório]()
 
+### Tchelinux 2019 Santo Ângelo
 
+Data: 31/08
+Local: URI Campus Santo Ângelo
+Palestras: 14
+Participantes: 120
+Arrecadações: 105kg
+[Relatório]()
+
+---
 ## 2018
 
 ### Tchelinux 2018 Rio Grande
