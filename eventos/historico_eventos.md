@@ -110,7 +110,7 @@ Local: UCPel
 Palestras: 31
 Participantes: 240
 Arrecadações: 200kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/ahdaa4ylmU0/ZzD4WMvzEAAJ)
 
 ### Tchelinux 2019 Santo Ângelo
 
