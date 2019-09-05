@@ -22,7 +22,7 @@ Abaixo o cronograma de atividades do calendário Tchelinux 2019.
 | 28/09 | [Erechim](https://erechim.tchelinux.org)                   | FAE      | Ederson Szlachta | 14/07      | 10/08    | 12/08        |
 | 05/10 | [Bagé](https://bage.tchelinux.org)                         | UNIPAMPA | Ricardo Robaina  | 14/07      | 24/08    | 26/08        |
 | 19/10 | [Bento Gonçalves](https://bento.tchelinux.org)             | UCS      | Scheila da Silva | 22/07      | 30/08    | 02/09        |
-| 09/11 | [Santa Maria](https://santamaria.tchelinux.org)            | UFN      | Tonin Bolzan     | 28/07      | 08/09    | 10/09        |
+| 09/11 | [Santa Maria](https://santamaria.tchelinux.org)            | UFN      | Tonin Bolzan     | 28/07      | 05/10    | 09/10        |
 | 14/12 | [Porto Alegre](https://poa.tchelinux.org)                  | FSPOA    | Leonardo Vaz     | 03/08      | 12/10    | 14/10        |
 
 ### Calendario
