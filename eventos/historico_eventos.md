@@ -17,7 +17,7 @@ Resultados do Grupo
  * Caxias do Sul: 12
  * Pelotas: 9
  * Bagé: 8
- * Erechim: 6
+ * Erechim: 7
  * Novo Hamburgo: 5
  * Bento Gonçalves: 4
  * Santa Cruz do Sul: 4
@@ -129,6 +129,16 @@ Palestras: 11
 Participantes: 125
 Arrecadações: 60kg
 [Relatório]()
+
+### Tchelinux 2019 Erechim
+
+Data: 28/09
+Local: FAE
+Palestras: 14
+Participantes: 125
+Arrecadações: 90kg
+[Relatório]()
+
 
 ---
 ## 2018
