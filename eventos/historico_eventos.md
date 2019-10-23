@@ -155,7 +155,7 @@ Local: UCS Campus Bento Gonçalves
 Palestras: 7
 Participantes: 40
 Arrecadações: 30kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/eVdpz2Fq6O0/N8dEOVn4AAAJ)
 
 ---
 ## 2018
