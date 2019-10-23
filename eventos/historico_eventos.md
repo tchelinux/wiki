@@ -137,7 +137,7 @@ Local: FAE
 Palestras: 14
 Participantes: 125
 Arrecadações: 90kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/FwvtkftHilk/fQurd_n3AAAJ)
 
 ### Tchelinux 2019 Bagé
 
