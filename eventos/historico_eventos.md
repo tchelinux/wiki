@@ -16,7 +16,7 @@ Resultados do Grupo
  * Porto Alegre: 23
  * Caxias do Sul: 12
  * Pelotas: 9
- * Bagé: 8
+ * Bagé: 9
  * Erechim: 7
  * Novo Hamburgo: 5
  * Bento Gonçalves: 4
@@ -137,6 +137,15 @@ Local: FAE
 Palestras: 14
 Participantes: 125
 Arrecadações: 90kg
+[Relatório]()
+
+### Tchelinux 2019 Bagé
+
+Data: 05/10
+Local: UNIPAMPA Campus Bagé
+Palestras: 17
+Participantes: 165
+Arrecadações: 94 kg
 [Relatório]()
 
 
