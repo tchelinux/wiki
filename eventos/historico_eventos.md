@@ -18,8 +18,8 @@ Resultados do Grupo
  * Pelotas: 9
  * Bagé: 9
  * Erechim: 7
+ * Bento Gonçalves: 5
  * Novo Hamburgo: 5
- * Bento Gonçalves: 4
  * Santa Cruz do Sul: 4
  * Rio Grande: 4
  * Santa Maria: 3
@@ -148,6 +148,14 @@ Participantes: 165
 Arrecadações: 94 kg
 [Relatório]()
 
+### Tchelinux 2019 Bento Gonçalves
+
+Data: 19/10
+Local: UCS Campus Bento Gonçalves
+Palestras: 7
+Participantes: 40
+Arrecadações: 30kg
+[Relatório]()
 
 ---
 ## 2018
