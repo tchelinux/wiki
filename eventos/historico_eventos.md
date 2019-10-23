@@ -128,7 +128,7 @@ Local: UNIPAMPA Campus Alegrete
 Palestras: 11
 Participantes: 95
 Arrecadações: 60kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/l_7UrV2HlT0/ADkILuL3AAAJ)
 
 ### Tchelinux 2019 Erechim
 
