@@ -146,7 +146,7 @@ Local: UNIPAMPA Campus Bagé
 Palestras: 17
 Participantes: 165
 Arrecadações: 94 kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/fqxiGnWWnfc/qiaOPy34AAAJ)
 
 ### Tchelinux 2019 Bento Gonçalves
 
