@@ -126,7 +126,7 @@ Arrecadações: 105kg
 Data: 14/09
 Local: UNIPAMPA Campus Alegrete
 Palestras: 11
-Participantes: 125
+Participantes: 95
 Arrecadações: 60kg
 [Relatório]()
 
