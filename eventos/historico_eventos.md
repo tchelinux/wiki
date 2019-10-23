@@ -27,11 +27,11 @@ Resultados do Grupo
  * São Jerônimo: 2
  * Santiago: 2
  * Santana do Livramento: 3
+ * Alegrete: 2
  * Lajeado: 2
  * Uruguaiana: 1
  * Chapecó: 1
  * Canoas: 1
- * Alegrete: 1
  * Passo Fundo: 1
  * Camaquã: 1 
  * Santo Ângelo: 1
@@ -120,6 +120,15 @@ Palestras: 14
 Participantes: 120
 Arrecadações: 105kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/rQZB3uUSyvg/8R6MWgsrEgAJ)
+
+### Tchelinux 2019 Alegrete
+
+Data: 14/09
+Local: UNIPAMPA Campus Alegrete
+Palestras: 11
+Participantes: 125
+Arrecadações: 60kg
+[Relatório]()
 
 ---
 ## 2018
