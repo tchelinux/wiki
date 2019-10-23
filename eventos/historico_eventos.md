@@ -1,15 +1,15 @@
 Resultados do Grupo
 ===================
 
-# Resultados até 01/12/2018
+# Resultados até 20/10/2019
 
- * Eventos: 97
+ * Eventos: 101
  * Cidades: 22
  * Instituições: 33
- * Palestras: 1523
- * Participantes: 12019
- * Quantidade de alimentos arrecadados: 17842kg
- * Instituições agraciadas: 49
+ * Palestras: 1572
+ * Participantes: 12444
+ * Quantidade de alimentos arrecadados: 18116kg
+ * Instituições agraciadas: 53
 
 # Eventos por cidade
 
