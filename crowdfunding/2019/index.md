@@ -16,19 +16,18 @@ Abaixo segue uma lista com itens disponíveis no crowdfunding:
 
 Camiseta preta (disponível nos tamanhos Baby-look G, P, M, G, GG e XGG), 100% algodão, fio 30.1 com estampas na frente e nas costas, de acordo com as imagens abaixo:
 
+![](images/frente.png "Figura 1: Frente da camiseta")
+![](images/costas.png "Figura 2: Costas da camiseta")
+
 #### Canecas
 
 Caneca em porcelana branca, 360ml com logo do Tchelinux de acordo com a imagem abaixo:
 
+![](images/caneca.png "Figura 3: Caneca")
+
 #### Adesivos
 
 - Adesivo em vinil fosco 5x7cm com o pinguim mascote do Tchelinux
-
-#### Como as camisetas e as canecas vão ficar?
-
-![](images/frente.png "Figura 1: Frente da camiseta")
-![](images/costas.png "Figura 2: Costas da camiseta")
-![](images/caneca.png "Figura 3: Caneca")
 
 ### Como participar?
 
@@ -37,7 +36,7 @@ Caneca em porcelana branca, 360ml com logo do Tchelinux de acordo com a imagem a
 - Escolha a forma de pagamento
 - Aguarde nosso contato
 
-> **Importante:** Os kits estarão disponíveis para retirada somente no evento de Porto Alegre, não faremos remessa via correio! Caso não possa comparecer, você pode pedir para um amigo ou familiar (devidamente identificado) fazer a retirada do kit em seu nome.
+> **Importante:** Os kits estarão disponíveis para retirada somente no [Tchelinux 2019 Porto Alegre](https://poa.tchelinux.org/), não faremos remessa via correio! Caso não possa comparecer, você pode pedir para um amigo ou familiar (devidamente identificado) fazer a retirada do kit em seu nome.
 
 ### Kits disponíveis
 
