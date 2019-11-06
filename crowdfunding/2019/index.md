@@ -31,12 +31,17 @@ Caneca em porcelana branca, 360ml com logo do Tchelinux de acordo com a imagem a
 
 ### Como participar?
 
-- Acesse o [formulário do crowdfunding](#)
-- Escolha o(s) pacote(s) que você deseja adquirir (e o tamanho da sua camiseta)
+- Acesse o [formulário do crowdfunding](https://forms.gle/kLqzKMJ7LKcpawwR7)
+- Escolha o tamanho da sua camiseta
+- Escolha o kit que você deseja adquirir
 - Escolha a forma de pagamento
 - Aguarde nosso contato
 
-> **Importante:** Os kits estarão disponíveis para retirada somente no [Tchelinux 2019 Porto Alegre](https://poa.tchelinux.org/), não faremos remessa via correio! Caso não possa comparecer, você pode pedir para um amigo ou familiar (devidamente identificado) fazer a retirada do kit em seu nome.
+> **Importante:** Os kits estarão disponíveis para retirada somente no [Tchelinux 2019 Porto Alegre](https://poa.tchelinux.org/), não faremos remessa via correio! Caso você não possa comparecer,  um amigo ou familiar (devidamente identificado) fazer a retirada do kit em seu nome.
+
+### Como faço para adquirir mais de um Kit?
+
+Interessados em adquirir mais de um dos pacotes deve preencher o formulário mais de uma vez.
 
 ### Kits disponíveis
 
