@@ -3,13 +3,13 @@ Resultados do Grupo
 
 # Resultados até 20/10/2019
 
- * Eventos: 101
+ * Eventos: 102
  * Cidades: 22
  * Instituições: 33
- * Palestras: 1572
- * Participantes: 12444
- * Quantidade de alimentos arrecadados: 18116kg
- * Instituições agraciadas: 53
+ * Palestras: 1592
+ * Participantes: 12579
+ * Quantidade de alimentos arrecadados: 18260kg
+ * Instituições agraciadas: 54
 
 # Eventos por cidade
 
@@ -22,7 +22,7 @@ Resultados do Grupo
  * Novo Hamburgo: 5
  * Santa Cruz do Sul: 4
  * Rio Grande: 4
- * Santa Maria: 3
+ * Santa Maria: 4
  * Gravataí: 3
  * São Jerônimo: 2
  * Santiago: 2
@@ -156,6 +156,15 @@ Palestras: 7
 Participantes: 40
 Arrecadações: 30kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/eVdpz2Fq6O0/N8dEOVn4AAAJ)
+
+### Tchelinux 2019 Santa Maria
+
+Data: 9/11
+Local: UFN
+Palestras: 20
+Participantes: 135
+Arrecadações: 144kg
+[Relatório](https://groups.google.com/d/msg/tchelinux/Yve7zBsRJTE/vx0-qGvXBQAJ)
 
 ---
 ## 2018
