@@ -173,7 +173,7 @@ Local: FSPOA
 Palestras: 66
 Participantes: 355
 Arrecadações: 329kg
-[Relatório]()
+[Relatório](https://groups.google.com/d/msg/tchelinux/tgz3NjXMMjc/Cy6DnAnHAgAJ)
 
 ---
 ## 2018
