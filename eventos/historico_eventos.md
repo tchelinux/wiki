@@ -3,17 +3,17 @@ Resultados do Grupo
 
 # Resultados até 20/10/2019
 
- * Eventos: 102
+ * Eventos: 103
  * Cidades: 22
  * Instituições: 33
- * Palestras: 1592
- * Participantes: 12579
- * Quantidade de alimentos arrecadados: 18260kg
- * Instituições agraciadas: 54
+ * Palestras: 1658
+ * Participantes: 12934
+ * Quantidade de alimentos arrecadados: 18589kg
+ * Instituições agraciadas: 55
 
 # Eventos por cidade
 
- * Porto Alegre: 23
+ * Porto Alegre: 24
  * Caxias do Sul: 12
  * Pelotas: 9
  * Bagé: 9
@@ -165,6 +165,15 @@ Palestras: 20
 Participantes: 135
 Arrecadações: 144kg
 [Relatório](https://groups.google.com/d/msg/tchelinux/Yve7zBsRJTE/vx0-qGvXBQAJ)
+
+### Tchelinux 2019 Porto Alegre
+
+Data: 14/12
+Local: FSPOA
+Palestras: 66
+Participantes: 355
+Arrecadações: 329kg
+[Relatório]()
 
 ---
 ## 2018
