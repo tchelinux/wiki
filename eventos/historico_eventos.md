@@ -1,7 +1,7 @@
 Resultados do Grupo
 ===================
 
-# Resultados até 20/10/2019
+# Resultados até 20/12/2019
 
  * Eventos: 103
  * Cidades: 22
