@@ -5,6 +5,7 @@
 [Sobre]()
 
   * [Sobre o Tchelinux](sobre.md)
+  * [Onde estamos](onde.md)
   * [Histórico de Eventos](eventos/historico_eventos.md)
   * [Contatos do Grupo](contatos.md)
 
