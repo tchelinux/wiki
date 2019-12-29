@@ -16,7 +16,8 @@
   * [Código de Conduta](conduta.md)
 
 [Contatos]()
-  * [Infra](contatos.md)
+
+  * [Infra](infra.md)
   * [Mentores](mentores.md)
   * [Contatos por Cidade](cidades.md)
 
