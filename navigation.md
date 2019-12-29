@@ -7,7 +7,7 @@
   * [Sobre o Tchelinux](sobre.md)
   * [Onde estamos](onde.md)
   * [Histórico de Eventos](eventos/historico_eventos.md)
-  * [Contatos do Grupo](contatos.md)
+
 
 [Participe]()
 
@@ -15,6 +15,11 @@
   * [Como ajudar?](como_ajudar.md)
   * [Regras da Lista](regras.md)
   * [Código de Conduta](conduta.md)
+
+[Contatos]()
+  * [Contatos](contatos.md)
+  * [Mentores](mentores.md)
+  * [Contatos por Cidade](cidades.md)
 
 [Midias Sociais]()
 
