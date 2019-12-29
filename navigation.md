@@ -8,7 +8,6 @@
   * [Onde estamos](onde.md)
   * [Histórico de Eventos](eventos/historico_eventos.md)
 
-
 [Participe]()
 
   * [Como participar?](como_participar.md)
@@ -17,7 +16,7 @@
   * [Código de Conduta](conduta.md)
 
 [Contatos]()
-  * [Contatos](contatos.md)
+  * [Infra](contatos.md)
   * [Mentores](mentores.md)
   * [Contatos por Cidade](cidades.md)
 
