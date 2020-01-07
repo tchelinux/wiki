@@ -5,9 +5,18 @@ Esta página contém uma lista com as cidades que serão visitadas durante o Tch
 
 Para informações sobre eventos realizados no calendário de 2019 [visite esta pagina](2019.md) ou verifique a página do [histórico de eventos](historico_eventos.md) do Tchelinux.
 
+
+### Mapa
+
+Abaixo temos o mapa com as cidades onde teremos eventos do calendário Tchelinux 2020.
+
+<div class="map-responsive">
+   <iframe src="https://www.google.com/maps/d/embed?mid=11Jxw_Fyqk3e0IgoVhaAvLgcxNhmI9jTn" width="640" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
 ### Cronograma
 
-Abaixo o cronograma de atividades do calendário Tchelinux 2019.
+Abaixo o cronograma de atividades do calendário Tchelinux 2020.
 
 | Data  | Cidade                                                     | Local    | Coordenador      | Inicio CFP | Fim CFP  | Programação  |
 |-------|------------------------------------------------------------|----------|------------------|------------|----------|--------------|
