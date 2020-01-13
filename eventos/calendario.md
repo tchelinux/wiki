@@ -21,12 +21,12 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 06/06 | [Frederico Westphalen](https://tchelinux.org) (à confirmar)  | IFFar    | TBD              | TBD        | TBD      | TBD          |
 | 20/06 | [Caxias do Sul](https://tchelinux.org) (à confirmar)         | UCS      | Zucco            | TBD        | TBD      | TBD          |
 | 04/07 | [Bagé](https://tchelinux.org)                                | Unipampa | Everton Catto    | TBD        | TBD      | TBD          |
-| 22/08 | [Ijuí](https://tchelinux.org) (à confirmar)                  | FAL      | TBD              | TBD        | TBD      | TBD          |
 | 29/08 | [Gravataí](https://tchelinux.org)                     | CNEC     | Rodrigo Vianna   | TBD        | TBD      | TBD          |
-| 12/09 | [Rio Grande](https://tchelinux.org) (à confirmar)           | FURG     | Éverton Almeida  | TBD        | TBD      | TBD          |
-| 26/09 | [Alegrete](https://tchelinux.org) (à confirmar)              | Unipampa | Andrius          | TBD        | TBD      | TBD          |
-| 17/10 | [Erechim](https://tchelinux.org) (à confirmar)               | TBD      | Éderson          | TBD        | TBD      | TBD          |
-| 31/10 | [Santana do Livramento](https://tchelinux.org) (à confirmar) | IFSul    | Sandro           | TBD        | TBD      | TBD          |
+| 12/09 | [Ijuí](https://tchelinux.org) (à confirmar)                  | FAL      | TBD              | TBD        | TBD      | TBD          |
+| 26/09 | [Rio Grande](https://tchelinux.org) (à confirmar)           | FURG     | Éverton Almeida  | TBD        | TBD      | TBD          |
+| 17/10 | [Alegrete](https://tchelinux.org) (à confirmar)              | Unipampa | Andrius          | TBD        | TBD      | TBD          |
+| 31/10 | [Erechim](https://tchelinux.org) (à confirmar)               | TBD      | Éderson          | TBD        | TBD      | TBD          |
+| 07/11 | [Santana do Livramento](https://tchelinux.org) (à confirmar) | IFSul    | Sandro           | TBD        | TBD      | TBD          |
 | 14/11 | [Santa Maria](https://tchelinux.org)                         | UFN      | Tonin            | TBD        | TBD      | TBD          |
 | 28/11 | [São Borja](https://tchelinux.org) (à confirmar)             | TBD      | TBD              | TBD        | TBD      | TBD          |
 | 12/12 | [Porto Alegre](https://tchelinux.org)                        | TBD      | Leonardo Vaz     | 02/08      | 02/10    | 12/10        |
