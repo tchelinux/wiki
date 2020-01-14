@@ -27,7 +27,7 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 17/10 | [Alegrete](https://tchelinux.org) (à confirmar)              | Unipampa  | [Andrius](https://people.tchelinux.org/jaques)                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 31/10 | [Erechim](https://tchelinux.org) (à confirmar)               | A definir | [Éderson](https://people.tchelinux.org/)                      | A ser anunciado | A ser anunciado | A ser anunciado |
 | 07/11 | [Santana do Livramento](https://tchelinux.org) (à confirmar) | IFSul     | [Sandro](https://people.tchelinux.org/)                       | A ser anunciado | A ser anunciado | A ser anunciado |
-| 14/11 | [Santa Maria](https://tchelinux.org)                         | UFN       | [Tonin Bolzan](https://people.tchelinux.org/toninbolzan)      | A ser anunciado | A ser anunciado | A ser anunciado |
+| 14/11 | [Santa Maria](https://tchelinux.org)                         | A definir | [Tonin Bolzan](https://people.tchelinux.org/toninbolzan)      | A ser anunciado | A ser anunciado | A ser anunciado |
 | 28/11 | [São Borja](https://tchelinux.org) (à confirmar)             | A definir | A ser definido                                                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 12/12 | [Porto Alegre](https://tchelinux.org)                        | A definir | [Leonardo Vaz](https://people.tchelinux.org/leonardovaz)      | 02/08           | 02/10           | 12/10           |
 
