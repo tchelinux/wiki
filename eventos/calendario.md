@@ -15,12 +15,12 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 21/03 | [Cruz Alta](https://tchelinux.org)                           | A definir | [Cassiano Molinari](https://people.tchelinux.org/m00nlinari)  | A ser anunciado | A ser anunciado | A ser anunciado |
 | 28/03 | [Passo Fundo](https://tchelinux.org) (à confirmar)           | IMED      | [Luciano Cruz](https://people.tchelinux.org/lccruz)           | A ser anunciado | A ser anunciado | A ser anunciado |
 | 04/04 | [Uruguaiana](https://tchelinux.org) (à confirmar)            | A definir | A ser definido                                                | A ser anunciado | A ser anunciado | A ser anunciado |
-| 25/04 | [Santa Cruz do Sul](https://tchelinux.org)                   | UNISC     | [Augusto Schnorr](https://people.tchelinux.org/alcsaw/)       | A ser anunciado | A ser anunciado | A ser anunciado |
-| 09/05 | [Gravataí](https://tchelinux.org)                            | CNEC      | [Rodrigo Vianna](https://people.tchelinux.org/)               | A ser anunciado | A ser anunciado | A ser anunciado |
-| 23/05 | [Pelotas](https://tchelinux.org)                             | UCPel     | [Claudio Diniz](https://people.tchelinux.org/)                | A ser anunciado | A ser anunciado | A ser anunciado |
+| 25/04 | [Santa Cruz do Sul](https://tchelinux.org)                   | UNISC     | [Augusto Schnorr](https://people.tchelinux.org/alcsaw)       | A ser anunciado | A ser anunciado | A ser anunciado |
+| 09/05 | [Gravataí](https://tchelinux.org)                            | CNEC      | [Rodrigo Vianna](https://people.tchelinux.org/rodrigovianna)               | A ser anunciado | A ser anunciado | A ser anunciado |
+| 23/05 | [Pelotas](https://tchelinux.org)                             | UCPel     | [Claudio Diniz](https://people.tchelinux.org/cmdiniz)                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 06/06 | [Frederico Westphalen](https://tchelinux.org) (à confirmar)  | IFFar     | A ser definido                                                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 20/06 | [Caxias do Sul](https://tchelinux.org) (à confirmar)         | UCS       | [Jeronimo Zucco](https://people.tchelinux.org/)               | A ser anunciado | A ser anunciado | A ser anunciado |
-| 04/07 | [Bagé](https://tchelinux.org)                                | Unipampa  | [Everton Catto](https://people.tchelinux.org/)                | A ser anunciado | A ser anunciado | A ser anunciado |
+| 04/07 | [Bagé](https://tchelinux.org)                                | Unipampa  | [Everton Catto](https://people.tchelinux.org/evertonchbg)                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 29/08 | [Taquara](https://tchelinux.org)                             | FACCAT    | [Julio Biason](https://people.tchelinux.org/)                 | A ser anunciado | A ser anunciado | A ser anunciado |
 | 12/09 | [Ijuí](https://tchelinux.org) (à confirmar)                  | FAL       | A ser definido                                                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 26/09 | [Rio Grande](https://tchelinux.org) (à confirmar)            | FURG      | [Éverton Almeida](https://people.tchelinux.org/)              | A ser anunciado | A ser anunciado | A ser anunciado |
