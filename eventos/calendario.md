@@ -24,7 +24,7 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 18/07 | [Canoas](https://tchelinux.org)                              | Unilasalle | [Rafael Jeffman](https://people.tchelinux.org/rafasgj)                   | A ser anunciado | A ser anunciado | A ser anunciado |
 | 29/08 | [Taquara](https://tchelinux.org)                             | FACCAT     | [Julio Biason](https://people.tchelinux.org/)                 | A ser anunciado | A ser anunciado | A ser anunciado |
 | 12/09 | [Ijuí](https://tchelinux.org)                                | FAL        | A ser definido                                                | A ser anunciado | A ser anunciado | A ser anunciado |
-| 26/09 | [Rio Grande](https://tchelinux.org)                          | FURG       | [Éverton Almeida](https://people.tchelinux.org/)              | A ser anunciado | A ser anunciado | A ser anunciado |
+| 26/09 | [Rio Grande](https://tchelinux.org)                          | FURG       | [Éverton Almeida](https://people.tchelinux.org/evertonalmeida)              | A ser anunciado | A ser anunciado | A ser anunciado |
 | 17/10 | [Alegrete](https://tchelinux.org)                            | Unipampa   | [Andrius](https://people.tchelinux.org/jaques)                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 31/10 | [Erechim](https://tchelinux.org)                             | FAE        | [Éderson](https://people.tchelinux.org/)                      | A ser anunciado | A ser anunciado | A ser anunciado |
 | 07/11 | [Santana do Livramento](https://tchelinux.org)               | IFSul      | [Sandro](https://people.tchelinux.org/)                       | A ser anunciado | A ser anunciado | A ser anunciado |
