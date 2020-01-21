@@ -18,12 +18,13 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 25/04 | [Santa Cruz do Sul](https://tchelinux.org)                   | UNISC      | [Augusto Schnorr](https://people.tchelinux.org/alcsaw)         | A ser anunciado | A ser anunciado | A ser anunciado |
 | 09/05 | [Gravataí](https://tchelinux.org)                            | CNEC       | [Rodrigo Vianna](https://people.tchelinux.org/rodrigovianna)   | A ser anunciado | A ser anunciado | A ser anunciado |
 | 23/05 | [Pelotas](https://tchelinux.org)                             | UCPel      | [Claudio Diniz](https://people.tchelinux.org/cmdiniz)          | A ser anunciado | A ser anunciado | A ser anunciado |
-| 06/06 | [Frederico Westphalen](https://tchelinux.org)                | IFFar      | A ser definido                                                 | A ser anunciado | A ser anunciado | A ser anunciado |
+| 06/06 | [Curitiba](https://tchelinux.org)                            | A definir  | [Leonardo Vaz](https://people.tchelinux.org/leonardovaz)       | A ser anunciado | A ser anunciado | A ser anunciado |
 | 20/06 | [Caxias do Sul](https://tchelinux.org)                       | UCS        | [Jeronimo Zucco](https://people.tchelinux.org/)                | A ser anunciado | A ser anunciado | A ser anunciado |
 | 04/07 | [Bagé](https://tchelinux.org)                                | Unipampa   | [Everton Catto](https://people.tchelinux.org/evertonchbg)      | A ser anunciado | A ser anunciado | A ser anunciado |
 | 18/07 | [Canoas](https://tchelinux.org)                              | Unilasalle | [Rafael Jeffman](https://people.tchelinux.org/rafasgj)         | A ser anunciado | A ser anunciado | A ser anunciado |
 | 29/08 | [Taquara](https://tchelinux.org)                             | FACCAT     | [Julio Biason](https://github.com/jbiason)                     | A ser anunciado | A ser anunciado | A ser anunciado |
 | 12/09 | [Ijuí](https://tchelinux.org)                                | FAL        | [Cassiano Molinari](https://people.tchelinux.org/m00nlinari)   | A ser anunciado | A ser anunciado | A ser anunciado |
+| 19/09 | [Florianópolis](https://tchelinux.org)                       | A definir  | [Leonardo Vaz](https://people.tchelinux.org/leonardovaz)       | A ser anunciado | A ser anunciado | A ser anunciado |
 | 26/09 | [Rio Grande](https://tchelinux.org)                          | FURG       | [Éverton Almeida](https://people.tchelinux.org/evertonalmeida) | A ser anunciado | A ser anunciado | A ser anunciado |
 | 17/10 | [Alegrete](https://tchelinux.org)                            | Unipampa   | [Andrius](https://people.tchelinux.org/jaques)                 | A ser anunciado | A ser anunciado | A ser anunciado |
 | 31/10 | [Erechim](https://tchelinux.org)                             | FAE        | [Éderson](https://people.tchelinux.org/)                       | A ser anunciado | A ser anunciado | A ser anunciado |
