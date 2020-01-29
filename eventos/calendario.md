@@ -27,7 +27,7 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 | 19/09 | [Florianópolis](https://tchelinux.org)                       | A definir  | [Leonardo Vaz](https://people.tchelinux.org/leonardovaz)       | A ser anunciado | A ser anunciado | A ser anunciado |
 | 26/09 | [Rio Grande](https://tchelinux.org)                          | FURG       | [Éverton Almeida](https://people.tchelinux.org/evertonalmeida) | A ser anunciado | A ser anunciado | A ser anunciado |
 | 17/10 | [Alegrete](https://tchelinux.org)                            | Unipampa   | [Andrius](https://people.tchelinux.org/jaques)                 | A ser anunciado | A ser anunciado | A ser anunciado |
-| 31/10 | [Erechim](https://tchelinux.org)                             | FAE        | [Éderson](https://people.tchelinux.org/)                       | A ser anunciado | A ser anunciado | A ser anunciado |
+| 31/10 | [Erechim](https://tchelinux.org)                             | A definir  | [Éderson](https://people.tchelinux.org/)                       | A ser anunciado | A ser anunciado | A ser anunciado |
 | 07/11 | [Santana do Livramento](https://tchelinux.org)               | IFSul      | [Sandro](https://people.tchelinux.org/)                        | A ser anunciado | A ser anunciado | A ser anunciado |
 | 14/11 | [Santa Maria](https://tchelinux.org)                         | A definir  | [Tonin Bolzan](https://people.tchelinux.org/toninbolzan)       | A ser anunciado | A ser anunciado | A ser anunciado |
 | 28/11 | [São Borja](https://tchelinux.org)                           | IFFar      | [Bruno Siqueira](https://people.tchelinux.org/)                | A ser anunciado | A ser anunciado | A ser anunciado |
