@@ -12,7 +12,7 @@ Abaixo temos o cronograma com datas e cidades que o grupo espera visitar ao long
 
 | Data  | Cidade                                                       | Local      | Coordenador                                                    | Inicio CFP      | Fim CFP         | Programação     |
 |-------|--------------------------------------------------------------|------------|----------------------------------------------------------------|-----------------|-----------------|-----------------|
-| 21/03 | [Cruz Alta](https://tchelinux.org)                           | A definir  | [Cassiano Molinari](https://people.tchelinux.org/m00nlinari)   | A ser anunciado | A ser anunciado | A ser anunciado |
+| 21/03 | [Cruz Alta](https://tchelinux.org)                           | UNICRUZ    | [Cassiano Molinari](https://people.tchelinux.org/m00nlinari)   | A ser anunciado | A ser anunciado | A ser anunciado |
 | 28/03 | [Passo Fundo](https://tchelinux.org)                         | IMED       | [Luciano Cruz](https://people.tchelinux.org/lccruz)            | A ser anunciado | A ser anunciado | A ser anunciado |
 | 04/04 | [Uruguaiana](https://tchelinux.org)                          | UNOPAR     | [Marcos Scher](https://people.tchelinux.org/scherinf)          | A ser anunciado | A ser anunciado | A ser anunciado |
 | 25/04 | [Santa Cruz do Sul](https://tchelinux.org)                   | UNISC      | [Augusto Schnorr](https://people.tchelinux.org/alcsaw)         | A ser anunciado | A ser anunciado | A ser anunciado |
