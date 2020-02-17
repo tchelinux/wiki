@@ -3,7 +3,7 @@ Código de Conduta
 
 O Tchelinux é um grupo de usuários que organiza eventos sem fins lucrativos, mantém um site com informações sobre o grupo, um canal de discussão e uma grupo de discussão por emails que tem como principal objetivo promover a divulgação, o debate e a troca de experiências entre usuários e desenvolvedores de software open source com profissionais e estudantes de tecnologia de informação, e usuários de software em geral.
 
-Este Código de Conduta será aplicado em todas as instâncias maitidas pelo Tchelinux para todos os membros da comunidade e para qualquer pessoa que escolher se envolver com o grupo. O objetivo é proteger o público de danos e perigos morais.
+Este Código de Conduta será aplicado em todas as instâncias mantidas pelo Tchelinux para todos os membros da comunidade e para qualquer pessoa que escolher se envolver com o grupo. O objetivo é proteger o público de danos e perigos morais.
 
 O Tchelinux dedica-se a promover uma comunidade respeitosa e livre de assédio para todos. Não toleramos qualquer forma de assédios ou intimidações de qualquer participante do evento, seja audiência, palestrantes, colaboradores, ou quaisquer membros da comunidade.
 
@@ -15,9 +15,9 @@ Espera-se que os participantes cumpram imediatamente solicitações para descont
 
 Qualquer participante que violar tais regras pode ser convidado a se retirar do evento, excluído dos canais de comunicação, a critério exclusivo dos organizadores, sem prejuízo das demais medidas legais cabíveis. 
 
-Se um participante se engajar em comportamento de assédio, os representantes da comunidade podem tomar medidas que considerem adequadas, desde alertas ao infrator até a vedação de sua participação em demais eventos, ou canais de comunicação, promovidos pelos membros da organização do Tchelinux individual ou coletivamente.
+Se um participante se engajar em comportamento de assédio, os representantes da comunidade podem tomar medidas que considerem adequadas, desde alertas ao infrator até a vedação de sua participação em demais eventos ou canais de comunicação, promovidos pelos membros da organização do Tchelinux individual ou coletivamente.
 
-Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar ou peça ajuda aos organizadores ou representantes do grupo, de modo a colocar a questão sob os cuidados da organização. Estamos certos de que essa política ajudará a fazer do Tchelinux um espaço mais acolhedor, inclusivo, e integrador para todos.
+Se você for assediado, perceber que alguém está sendo assediado, ou tem outras preocupações, por favor aja para interceptar e/ou peça ajuda aos organizadores ou representantes do grupo, de modo a colocar a questão sob os cuidados da organização. Estamos certos de que essa política ajudará a fazer do Tchelinux um espaço mais acolhedor, inclusivo, e integrador para todos.
 
 Tchelinux, Grupo de Usuários de Software Livre do Rio Grande do Sul
 
