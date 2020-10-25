@@ -1,11 +1,11 @@
 Guia de Submissão de Palestras Tchelinux
 ========================================
 
-## Sobre os eventos do Tchelinux
+### Sobre os eventos do Tchelinux
 
 O Grupo de Usuários Tchelinux organiza eventos e incentiva a participação da comunidade de Software Livre (usuários e desenvolvedores) para a realização de apresentações com o objetivo de promover e difundir a aplicação do mesmo em diversas áreas.
 
-## Sobre o processo de submissão de propostas de palestras
+### Sobre o processo de submissão de propostas de palestras
 
 O processo de submissão e seleção dos trabalhos para os eventos, independente do seu formato (presencial ou online), passa por uma Chamada de Trabalhos, onde qualquer pessoa pode enviar uma proposta de apresentação, que será analisada pela equipe de organização do evento. Os autores das propostas selecionadas deverão, então, preparar suas apresentações de acordo com o formato do evento em questão.
 
@@ -34,7 +34,7 @@ Os principais temas apresentados nos eventos do grupo, são:
 
 Muitos outros temas podem ser propostos, sempre sobre um viés técnico, e são comuns nos eventos, incluindo multimidia e produção criativa, inteligência artificial, visão computacional, e robótica. O grupo é aberto a novas oportunidades de aplicação de Software Livre.
 
-## Regras gerais de submissão de trabalhos
+### Regras gerais de submissão de trabalhos
 
 Os trabalhos devem ser submetidos a partir do formulário de submissão de trabalhos, que é exclusivo de cada evento organizado pelo grupo, até a data máxima especificada pelo evento. Trabalhos submetidos fora da data limite não serão apreciados pela equipe organizadora.
 
@@ -46,7 +46,7 @@ O desrespeito a qualquer um desses itens acarretará na rejeição da proposta d
 
 Durante todo o processo, o grupo fará o possível para garantir a aplicação do Código de Conduta. Uma proposta que não se adeque a isso será rejeitada.
 
-### Eventos Online
+#### Eventos Online
 
 Os eventos online do Tchelinux são realizados em duas partes, a publicação de vídeos com o conteúdo a ser divulgado aos participantes, e a participação do autor em uma videoconferência com data e horário previamente combinados para interação e respostas a dúvidas com os participantes do evento.
 
