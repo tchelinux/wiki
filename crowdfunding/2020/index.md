@@ -4,7 +4,9 @@
 
 Este crowdfunding está sendo organizado para o custeio de despesas da organização e divulgação do [Tchelinux Live 2020](https://live.tchelinux.org/).
 
-[](https://www.youtube.com/watch?v=B1P58SyKnBc)
+<div class="map-responsive">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B1P58SyKnBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Prazo
 
