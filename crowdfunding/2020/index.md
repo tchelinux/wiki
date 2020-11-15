@@ -4,9 +4,11 @@
 
 Este crowdfunding está sendo organizado para o custeio de despesas da organização e divulgação do [Tchelinux Live 2020](https://live.tchelinux.org/).
 
+<!--
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B1P58SyKnBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+-->
 
 ### Prazo
 
@@ -22,21 +24,14 @@ Para contribuir preencha [formulário do crowdfunding](https://forms.gle/q2gMSCK
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 
-#### Mega Bagual (20 unidades, R$ 50,00 cada)
+#### Mega Bagual (30 unidades, R$ 50,00 cada)
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 - Seu nome na lista de apoiadores no final dos Vídeos do Tchelinux Live 2020
 
-#### Ultra Bagual (10 unidades, R$ 100,00 cada):
+#### Ultra Bagual (20 unidades, R$ 100,00 cada):
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 - Seu nome na lista de apoiadores no final dos Vídeos do Tchelinux Live 2020
-- Menção especial nos agradecimentos (nome e foto), durante o encerramento do evento no dia 12 de Dezembro
-
-#### Extreme Bagual (5 unidades, R$ 300,00 cada):
-
-- Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
-- Seu nome na lista de apoiadores no final dos Vídeos do Tchelinux Live 2020
-- Menção especial nos agradecimentos (nome e foto), durante o encerramento do evento no dia 12 de Dezembro
-- Participação da Live de anúncio do Bagual Awards 2020, durante o encerramento do evento no dia 12 de Dezembro
+- Menção especial nos agradecimentos (nome e foto), na live de encerramento do evento no dia 12 de Dezembro
 
