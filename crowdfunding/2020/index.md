@@ -4,6 +4,8 @@
 
 Este crowdfunding está sendo organizado para o custeio de despesas da organização e divulgação do [Tchelinux Live 2020](https://live.tchelinux.org/).
 
+[](https://www.youtube.com/watch?v=B1P58SyKnBc)
+
 ### Prazo
 
 O crowdfunding ficará aberto até o dia 30 de Novembro, ou enquanto houver disponibilidade das modalidades de apoio.
