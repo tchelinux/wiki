@@ -20,16 +20,16 @@ Para contribuir preencha [formulário do crowdfunding](https://forms.gle/q2gMSCK
 
 ### Modalidades de Apoio:
 
-#### Super Bagual (50 unidades, R$ 15,00 cada)
+#### Super Bagual (50 cotas, R$ 15,00 cada)
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 
-#### Mega Bagual (30 unidades, R$ 50,00 cada)
+#### Mega Bagual (30 cotas, R$ 50,00 cada)
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 - Seu nome na lista de apoiadores no final dos Vídeos do Tchelinux Live 2020
 
-#### Ultra Bagual (20 unidades, R$ 100,00 cada):
+#### Ultra Bagual (20 cotas, R$ 100,00 cada):
 
 - Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) do Tchelinux Live 2020
 - Seu nome na lista de apoiadores no final dos Vídeos do Tchelinux Live 2020
