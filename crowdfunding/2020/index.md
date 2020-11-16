@@ -12,7 +12,7 @@ O video abaixo foi gravado para explicar em mais detalhes:
 
 ### Prazo
 
-O crowdfunding ficará aberto até o dia 30 de Novembro, ou enquanto houver disponibilidade das modalidades de apoio.
+O crowdfunding ficará aberto até o dia **30 de Novembro**, ou enquanto houver disponibilidade das modalidades de apoio.
 
 ### Como participar?
 
