@@ -6,6 +6,36 @@ Nesta página temos uma lista de pessoas que contribuiram em ações para viabil
 
 #### Crowdfunding Tchelinux Live 2020
 
+##### Ultra Bagual
+- Alan Mussoi
+- Aldrey Galindo 
+- Amador Pahim
+- Anderson da Rosa
+- Fabricio Candido
+- Gustavo Ciello
+- Helber Maciel Guerra
+- Jerônimo Medina Madruga
+- Marcelo Barbosa
+- Marcos Alano
+- Nícolas Wildner
+- Renato Severo
+
+##### Mega Bagual
+- Alex Sandro Garzão
+- Cassiano Molinari Gomes
+- Cristiano dos Santos Diedrich
+- Fabio Beneditto
+- Gabriel Scheffer de Souza
+- Jeronimo Zucco
+- Mateus Buogo
+- Nelson Dutra Junior
+
+##### Super Bagual
+
+- Cristiano Raffi Cunha
+- Francisco Vilmar Cardoso Ruviaro
+- Jose Luis Osorio da Costa Junior
+
 ### 2019
 
 #### Crowdfunding Tchelinux 2019 Porto Alegre
