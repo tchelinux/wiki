@@ -11,15 +11,29 @@ Nesta página temos uma lista de pessoas que contribuiram em ações para viabil
 - Aldrey Galindo 
 - Amador Pahim
 - Anderson da Rosa
+- Anderson Vaz
+- Carlos Brandão Schwab
+- Daniel Lara
+- Douglas Schilling Landgraf
+- Everton Catto Heckler
 - Fabricio Candido
+- Gabriel de Assumpção Tillmann
+- Gabriel Ferraz Stein
 - Gustavo Ciello
 - Helber Maciel Guerra
 - Jerônimo Medina Madruga
+- João Avelino Bellomo Filho
+- Luis Claudio Rodrigues Gonçalves
 - Marcelo Barbosa
 - Marcos Alano
 - Nícolas Wildner
 - Renato Severo
-
+- Ricardo Maraschini
+- Ricardo Robaina
+- Sandro Custódio
+- Thales da Silva Salazar Pereira
+- Gustavo Brondani Schenkel
+ 
 ##### Mega Bagual
 - Alex Sandro Garzão
 - Cassiano Molinari Gomes
@@ -27,11 +41,12 @@ Nesta página temos uma lista de pessoas que contribuiram em ações para viabil
 - Fabio Beneditto
 - Gabriel Scheffer de Souza
 - Jeronimo Zucco
+- Luciano Camargo Cruz
 - Mateus Buogo
 - Nelson Dutra Junior
+- Walter de Souza Neto
 
 ##### Super Bagual
-
 - Cristiano Raffi Cunha
 - Francisco Vilmar Cardoso Ruviaro
 - Jose Luis Osorio da Costa Junior
