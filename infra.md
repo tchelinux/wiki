@@ -28,4 +28,3 @@ O Tchelinux conta com uma equipe de voluntários que auxiliam desde na manutenç
  | [Facebook](https://facebook.com/tchelinux)            | [Rafael Jeffman](https://people.tchelinux.org/rafasgj), [Jerônimo Madruga](https://twitter.com/jmmadruga)            | 
  | [Linkedin](https://www.linkedin.com/groups/771307/)   | [Eduardo Kienetz](https://twitter.com/kienetz), [Leonardo Vaz](https://people.tchelinux.org/leonardovaz)             | 
  | [Slideshare](https://www.slideshare.net/tchelinux/)   | [Jerônimo Madruga](https://twitter.com/jmmadruga)                                                                    | 
-
