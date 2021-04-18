@@ -11,6 +11,5 @@ A estrutura do Wiki é detalhada na tabela à seguir e pode ser acessada a parti
 | Participe        | Detalhes sobre [como participar](como_participar.md) e [como ajudar](como_ajudar.md) o Tchelinux.                                     |
 | Contatos         | Responsáveis pela [infraestrutura do grupo](infra.md), [lista de mentores](mentores.md) e [lista de contatos por cidade](cidades.md). | 
 | Mídias Sociais   | Encontre o Tchelinux nas principais mídias sociais.                                                                                   | 
-| Tchelinux Campus | Informações sobre o projeto Tchelinux Campus.                                                                                         |
 | Documentação     | Documentação criada pelos membros do Tchelinux sobre a organização de eventos e outros temas.                                         |
 | Calendário       | Calendário de [eventos do Tchelinux](eventos/calendario.md) a serem realizados ao longo do ano.                                       |

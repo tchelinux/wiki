@@ -1,1 +1,0 @@
-tchelinux_campus.md

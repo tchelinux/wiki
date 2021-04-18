@@ -31,12 +31,6 @@
   * [Instagram](https://instagram.com/tchelinux)
   * [Linkedin](https://www.linkedin.com/groups/771307)
 
-[Tchelinux Campus]()
-
-  * [Tchelinux Campus](campus/tchelinux_campus.md)
-  * [Biblioteca de Apresentações](campus/biblioteca_apresentacoes.md)
-  * [Contatos](campus/contatos.md)
-
 [Documentação]()
 
   * [Guia de Submissão de Palestras Tchelinux](guidelines.md)

@@ -29,4 +29,3 @@ Abaixo uma lista de metas e objetivos do Tchelinux por calendário a partir do a
 - Expansão da presença do grupo nas regiões Norte, Noroeste e Oeste. **Status**: [Em progresso](https://tchelinux.org) 
 - Visitar 5 novas cidades (Taquara, Frederico Westphalen, Cruz Alta, Ijuí e São Borja), e retornar a outras 2 que o grupo não visita a bastante tempo (Uruguaiana e Gravataí). **Status**: [Em progresso](https://tchelinux.org) 
 - Manter o público acima da marca de 2000 participantes durante o calendário. **Status**: [Em progresso](https://tchelinux.org)
-- Inverstir em atividades locais através da expansão do programa Tchelinux Campus. **Status** [Em progresso](https://tchelinux.org)
