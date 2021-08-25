@@ -15,28 +15,63 @@ Independente do tema escolhido, o Tchelinux prioriza palestras técnicas sobre p
 
 Os principais temas apresentados nos eventos do grupo, são:
 
+- Comunidade 
+  - Licenças
+  - Filosofia
+  - Educação
+  - Retrocomputação
+  - História do UNIX
+- Empreendedorismo
+  - Startups
+  - Negócios
+- Aplicações
+  - Distribuições Linux
+  - Aplicativos Livres
+  - Multimídia (Vídeo e Áudio)
+  - Jogos
+- Redes
+- Segurança 
+  - Pentest
+  - Criptografia
+  - Blockchain e Criptomoedas
+- Sistemas operacionais
+  - Sistemas Embarcados
+- Hardware
+  - IoT
+  - Robótica
+  - Impressão 3D
 - Desenvolvimento
+  - Desenvolvimento Web
+  - Desenvolvimento Mobile
   - Linguagens de Programação
   - Ferramentas de Desenvolvimento
   - Arquitetura de Software
-  - Testes e Infraestrutura
-  - Bancos de Dados
-- Sistemas e Plataformas
-  - Kernel
-  - Sistemas Operacionais Livres
-  - Distribuições
-  - Sistemas Embarcados
-- Admnistração de Sistemas
-  - DevOps
-  - Monitoramento
-  - Ferramentas de Administração
-  - Integração entre Sistemas
+  - Testes de Software
+- Banco de Dados
+- AI and Machine Learning 
+- Cloud
+  - Virtualização
+  - Software Defined Storage
+  - Software Defined Network
+- Automação
+  - IaaS
+- Big Data
+- Data Engineering
+- Cloud Native Applications
+  - Containers
+  - Orquestração
+  - Micro Serviços
+- DevOps
+- CI/CD
+- SRE
+  - Monitoração
+  - Observabilidade
 
-Muitos outros temas podem ser propostos, sempre sobre um viés técnico, e são comuns nos eventos, incluindo multimidia e produção criativa, inteligência artificial, visão computacional, e robótica. O grupo é aberto a novas oportunidades de aplicação de Software Livre.
+Muitos outros temas podem ser propostos, sempre sobre um viés técnico, e são comuns nos eventos, incluindo multimidia e produção criativa, visão computacional, software livre na educação etc. O grupo é aberto a novas oportunidades de aplicação de Software Livre.
 
 ### Regras gerais de submissão de trabalhos
 
-Os trabalhos devem ser submetidos a partir do formulário de submissão de trabalhos, que é exclusivo de cada evento organizado pelo grupo, até a data máxima especificada pelo evento. Trabalhos submetidos fora da data limite não serão apreciados pela equipe organizadora.
+A propostas de palestras devem ser submetidas a partir do formulário de submissão de trabalhos, que é exclusivo de cada evento organizado pelo grupo, até a data máxima especificada pelo evento. Trabalhos submetidos fora da data limite não serão apreciados pela equipe organizadora.
 
 Os trabalhos devem ser de autoria de quem o submeteu, e o uso de vídeos, som, imagens deve respeitar as leis vigentes (citação, autorização de uso, etc).
 
@@ -48,7 +83,7 @@ Durante todo o processo, o grupo fará o possível para garantir a aplicação d
 
 #### Eventos Online
 
-Os eventos online do Tchelinux são realizados em duas partes, a publicação de vídeos com o conteúdo a ser divulgado aos participantes, e a participação do autor em uma videoconferência com data e horário previamente combinados para interação e respostas a dúvidas com os participantes do evento.
+Os eventos online do Tchelinux são realizados em duas partes, a publicação de vídeos com o conteúdo a ser divulgado aos participantes, e a participação do autor em uma Live (videoconferência) com data e horário previamente combinados para interação e respostas a dúvidas com os participantes do evento.
 
 Os vídeos submetidos para os eventos do grupo devem seguir as seguintes regras:
 
@@ -75,3 +110,9 @@ Nos eventos online, além da aprovação na submissão de trabalhos, o vídeo co
 - Por decisão da organização do evento.
 
 Os vídeos serão publicados nos canais de comunicação do Tchelinux, e estarão disponíveis no [canal oficial do grupo no YouTube](https://youtube.com/tchelinux).
+
+#### Tutorial OBS Studio Projeto Root
+
+Nosso colega Diego Costa, idealizador do Canal Projeto Root no YouTube publicou um vídeo que detalha o fluxo para gravação de apresentações utilizando a ferramenta OBS Studio e disponibilizou um template dos arquivos de configuração usados na demostração:
+
+   <center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=9FzAtU96Bcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
