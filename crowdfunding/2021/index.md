@@ -1,5 +1,5 @@
 
-<img src="images/banner.png" alt="Crowdfunding Tchelinux Live 2021" width="1280" height="512">
+<img src="images/banner.png" alt="Crowdfunding Tchelinux Live 2021" width="1280" height="512" border="0">
 
 
 ### Sobre
