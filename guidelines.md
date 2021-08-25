@@ -115,4 +115,4 @@ Os vídeos serão publicados nos canais de comunicação do Tchelinux, e estarã
 
 Nosso colega Diego Costa, idealizador do Canal Projeto Root no YouTube publicou um vídeo que detalha o fluxo para gravação de apresentações utilizando a ferramenta OBS Studio e disponibilizou um template dos arquivos de configuração usados na demostração:
 
-   <center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=9FzAtU96Bcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/9FzAtU96Bcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
