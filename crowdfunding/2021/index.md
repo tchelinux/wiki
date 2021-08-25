@@ -1,5 +1,5 @@
 
-<center><img src="images/banner.png" alt="Crowdfunding Tchelinux Live 2021" width="1280" height="512"></center>
+<img src="images/banner.png" alt="Crowdfunding Tchelinux Live 2021" width="1280" height="512">
 
 
 ### Sobre
@@ -33,7 +33,7 @@ Sua contribuição terá como contrapartida:
 
 Sua contribuição terá como contrapartida:
 
--  Seu nome na lista de apoiadores no site do Tchelinux Live 2021
+-  Seu nome na [lista de apoiadores](https://wiki.tchelinux.org/#!crowdfunding/contribuidores.md) no site do Tchelinux Live 2021
 -  Agradecimentos [no fim dos vídeos](https://youtu.be/NOmUIGxO6uU?t=1209) do Tchelinux Live 2021
 -  Foto no [mosaico dos contribuidores e menção durante a live de encerramento](https://youtu.be/0pmAI0pjrwc?t=3181) do Tchelinux Live 2021
 
