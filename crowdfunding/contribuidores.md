@@ -2,6 +2,58 @@
 
 Nesta página temos uma lista de pessoas que contribuiram em ações para viabilização e custeio de eventos do Tchelinux. Muito obrigado!
 
+### 2021
+
+#### Crowdfunding Tchelinux Live 2021
+
+##### Extreme Bagual
+- Carlos Brandão Schwab
+- Claudia Tomie Fujiya Sungaila
+- Filipe Rosset
+- Helber Maciel Guerra
+- Jerônimo Medina Madruga
+- João Avelino Bellomo Filho
+- Leandro Lopes da Silva
+- Marcelo Barbosa
+- Marcos Sungaila
+- Marcos Alano 
+- Mateus Caruccio 
+- Roberto Santacroce Martins
+- Thomas Metz
+- Vilson "Bwolf" Dauinheimer
+
+##### Ultra Bagual
+- Alan Mussoi
+- Alex Garzão
+- Cristiano Raffi Cunha
+- Diovani Dostatny
+- Fabricio Candido Dos Santos Oliveira
+- Gustavo Brondani Schenkel
+- Gustavo Ciello
+- Guilherme Covolo
+- Guilherme Zordan
+- Helio Loureiro
+- Marcelo Gondim da Cunha
+- Marcelo Pias
+- Vinicius Mignot
+
+##### Mega Bagual
+- Bruno Roberto Zanuzzo
+- Cassiano Molinari
+- Fabio Beneditto
+- Fabiano da Rosa Gomes
+- Frédney Ramllo Moronari
+- Jorge Martins
+- Lucas Leal Caparelli
+- Marcelo Rios Kwecko
+- Nelson Dutra Junior
+- Rodrigo Vaz dos Santos
+
+##### Super Bagual
+- Cássio Jhonatan Gamarra Olegário
+- Cláudio Machado Diniz
+- Daniel Centeno Ramos
+
 ### 2020
 
 #### Crowdfunding Tchelinux Live 2020
