@@ -318,7 +318,7 @@ A última tarefa pós-evento é o envio de um email de agradecimento para a Inst
 
 A grafia correta do nome grupo é “`Tchelinux`”, todavia também pode ser usado “`TcheLinux`”, com a letra “L” maíuscula. 
 
-**Importante:** Não encorajamos o uso de grafias que utilizem acento circunflexo como “`Tchêlinux`” ou “`TchêLinux`”, tampouco nomes compostos como “`Tche Linux`” ou “`Tchê Linux`”.
+**Importante:** Não encorajamos o uso de grafias que utilizem acento circunflexo como “`Tchêlinux`” ou “`TchêLinux`”, tampouco nomes compostos como “`Tche Linux`” ou “`Tchê Linux`”. Considerado que estamos em "tempos de internet", o mais interesante seria apenas "`tchelinux.org`".
 
 ### Logomarca
 
