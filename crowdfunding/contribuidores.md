@@ -2,6 +2,62 @@
 
 Nesta página temos uma lista de pessoas que contribuiram em ações para viabilização e custeio de eventos do Tchelinux. Muito obrigado!
 
+### 2022
+
+#### Crowdfunding Tchelinux Live 2022
+
+##### Extreme Bagual
+- Alan Mussoi
+- Arx Henrique Pereira da Cruz
+- Cristiano Raffi Cunha
+- Diego Trescastro Barrios de Oliveira
+- Evaldo Gardenal
+- Fábio Olivé Leite 
+- Felipe Borges
+- Filipe Rosset
+- Gustavo Ciello
+- Jerônimo Medina Madruga
+- João Avelino Bellomo Filho
+- Leandro Silva
+- Lucas de Souza Santos
+- Marcelo Barbosa
+- Marcos Alano
+- Mateus Caruccio
+- Nícolas Wildner
+- Priscila Laís Bragato Veiga 
+- Sandro Custódio
+- Talita Cristina Silveira
+- Walter de Souza Neto
+
+##### Ultra Bagual
+- Alex Sandro Garzão
+- Andrius Jaques
+- Vilson "Bwolf" Dauinheimer
+- Clauber Stipkovic Halic
+- Daniel Bruno da Silva
+- Gabriel Scheffer de Souza
+- Guilherme Covolo
+- Gustavo Brondani Schenkel
+- Maristonio Teixeira Alcantara
+- Mauricio dos Santos Magnani Junior
+- Ricardo Maraschini
+- Ricardo Zanini
+- Sérgio Surkamp
+
+##### Mega Bagual
+- Bruno Carvalho
+- Cassiano Molinari
+- Jeronimo Zucco
+- Levy Sant'Anna
+- Luiz Rauber
+- Raul Jose Cheleguini
+- Samuel Francisco Ferrigo
+
+##### Super Bagual
+- Fabio Beneditto
+- Leonardo Salvadori
+- Mateus Buogo
+
 ### 2021
 
 #### Crowdfunding Tchelinux Live 2021
