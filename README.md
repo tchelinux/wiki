@@ -11,7 +11,7 @@ Entre 2006 e 2019 o Tchelinux realizou mais de uma centena de eventos presenciai
 
 Em 2020, por conta da pandemia o Tchelinux precisou se reinventar e desde então viemos realizando eventos 100% online, que resultaram em centenas de horas de conteúdo gratuito no nosso Canal no YouTube, permitindo com que o Tchelinux superasse barreiras geográficas e de tempo, alcançando um público ainda maior no Brasil e em vários lugares do mundo.
 
-O histórico dos eventos presenciais e online realizados, assim como os resultados pode ser encontrado [neste link](./eventos/).
+O histórico dos eventos presenciais e online realizados, assim como os resultados pode ser encontrado [neste link](https://github.com/tchelinux/wiki/eventos).
 
 ### Missão, Visão e Valores
 
