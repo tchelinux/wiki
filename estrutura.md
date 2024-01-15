@@ -1,2 +1,0 @@
-Estrutura do Wiki
-=================
