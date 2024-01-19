@@ -1,69 +1,38 @@
 Resultados do Grupo
 ===================
 
-
-## Resultados até 20/12/2019
-
- * Eventos: 103
- * Cidades: 22
- * Instituições: 33
- * Palestras: 1658
- * Participantes: 12934
- * Quantidade de alimentos arrecadados: 18589kg
- * Instituições agraciadas: 55
-
-## Eventos por cidade
-
- * Porto Alegre: 24
- * Caxias do Sul: 12
- * Pelotas: 9
- * Bagé: 9
- * Erechim: 7
- * Bento Gonçalves: 5
- * Novo Hamburgo: 5
- * Santa Cruz do Sul: 4
- * Rio Grande: 4
- * Santa Maria: 4
- * Gravataí: 3
- * São Jerônimo: 2
- * Santiago: 2
- * Santana do Livramento: 3
- * Alegrete: 2
- * Lajeado: 2
- * Uruguaiana: 1
- * Chapecó: 1
- * Canoas: 1
- * Passo Fundo: 1
- * Camaquã: 1 
- * Santo Ângelo: 1
-
-# Eventos realizados
-
 ## 2022
 
-Data:
-Playlist:
-Apresentações:
-Visualizações:
-[Relatório]()
+### Tchelinux Live 2022
+
+Data: de 07 de Agosto à 16 de Dezembro
+Apresentações: 33 
+Palestrantes: 33 (7 países diferentes)
+Visualizações: mais de 10 mil
+[Playlist](https://www.youtube.com/playlist?list=PL9ESgQmnVQPZ9jUsQXzJDGNVqkeaM5oNV)
+[Relatório](https://groups.google.com/g/tchelinux/c/WWILpH6Z9_Y)
 
 ## 2021
 
-Data:
-Playlist:
-Apresentações:
-Visualizações:
-[Relatório]()
+### Tchelinux Live 2021
+
+Data: de 31 de Outubro à 18 de Dezembro
+Apresentações: 68 
+Palestrantes: 63 (12 países)
+Visualizações: mais de 22 mil
+[Playlist](https://www.youtube.com/playlist?list=PL9ESgQmnVQPb9uSXYJc8XxFDtX8guv2tN)
+[Relatório](https://groups.google.com/g/tchelinux/c/MhA2CyMSxjI)
 
 ## 2020
 
 ### Tchelinux Live 2020
 
-Data:
-Playlist:
-Apresentações:
-Visualizações:
-[Relatório]()
+Data: de 07 à 12 de Dezembro
+Apresentações: 44
+Palestrantes: 46 (4 países)
+Visualizações: mais de 6 mil
+[Playlist](https://www.youtube.com/playlist?list=PL9ESgQmnVQPZdlajOaRUaZe1-NnJGdKot)
+[Relatório](https://groups.google.com/g/tchelinux/c/k9tUelAV5ro)
 
 ## 2019
 
@@ -442,6 +411,7 @@ Local: Faculdade SENAC
 Palestras: 24
 Participantes: 60
 Arrecadações: 108kg
+[Relatóroi](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ---
 ## 2014
@@ -601,6 +571,7 @@ Local: FTEC
 Palestras: 22
 Participantes: 126
 Arrecadações: 250kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2011 Santana do Livramento
 Data: 12/11
@@ -632,6 +603,7 @@ Local: UNIPAMPA
 Palestras: 8
 Participantes: 42
 Arrecadações: 50kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2010 Pelotas
 Data: 22/05
@@ -639,6 +611,7 @@ Local: FATEC
 Palestras: 8
 Participantes: 90
 Arrecadações: 200kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2010 Caxias do Sul
 Data: 19/06
@@ -646,6 +619,7 @@ Local: FTEC
 Palestras: 12
 Participantes: 130
 Arrecadações: 250kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2010 Rio Grande
 Data: 27/11
@@ -660,6 +634,7 @@ Local: UNIPAMPA
 Palestras: 9
 Participantes: 60
 Arrecadações: 120kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2010 Porto Alegre
 Data: 04/12
@@ -667,6 +642,7 @@ Local: FTEC
 Palestras: 32
 Participantes: 100
 Arrecadações: 170kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ---
 ## 2009
@@ -698,6 +674,7 @@ Local: URCAMP
 Palestras: 6
 Participantes: 100
 Arrecadações: 180kg
+[Relatório](https://groups.google.com/g/tchelinux/c/ZfWqXZmlr-w/m/Z07f3DdYDAAJ)
 
 ### Tchelinux 2009 Porto Alegre
 Data: 30/05
@@ -871,7 +848,7 @@ Arrecadações: 400kg
 
 ### Tchelinux 2006 Porto Alegre
 Data: 18 e 19/11
-Local: IPA
+Local: IPA Metodista
 Palestras: 32
 Participantes: 550
 Arrecadações: 1000kg
